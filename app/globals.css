@@ -1,0 +1,83 @@
+@import "tailwindcss";
+
+:root {
+  --color-navy: #16243f;
+  --color-navy-light: #233a63;
+  --color-paper: #fafaf8;
+  --color-paper-dim: #f0efe9;
+  --color-ink: #1c1c1c;
+  --color-teal: #2d7d6f;
+  --color-teal-dark: #1f5d52;
+  --color-amber: #c8852a;
+  --color-red: #b3432d;
+  --color-line: #d8d5cb;
+
+  --background: var(--color-paper);
+  --foreground: var(--color-ink);
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+}
+
+body {
+  background: var(--color-paper);
+  color: var(--color-ink);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+}
+
+.exam-shell {
+  background: var(--color-paper);
+  min-height: 100vh;
+}
+
+.exam-topbar {
+  background: var(--color-navy);
+  color: #fff;
+}
+
+.timer-mono {
+  font-family: "SF Mono", "Cascadia Code", Consolas, monospace;
+  letter-spacing: 0.02em;
+}
+
+.question-nav-btn {
+  font-family: "SF Mono", "Cascadia Code", Consolas, monospace;
+  transition: all 0.15s ease;
+}
+
+.passage-text {
+  font-family: Georgia, "Times New Roman", serif;
+  line-height: 1.75;
+}
+
+.serif-display {
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+::selection {
+  background: rgba(45, 125, 111, 0.25);
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-track {
+  background: var(--color-paper-dim);
+}
+::-webkit-scrollbar-thumb {
+  background: #c2bfb3;
+  border-radius: 5px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #a8a496;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}

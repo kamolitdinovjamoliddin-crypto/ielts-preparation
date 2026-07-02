@@ -1,0 +1,3752 @@
+[
+  {
+    "day_number": 1,
+    "title": "To Be (am / is / are)",
+    "explanation": "The verb 'to be' is one of the most important verbs in English. It has three forms in the present: am, is, and are.\n\nUse 'am' with I.\nUse 'is' with he, she, it, and singular nouns.\nUse 'are' with you, we, they, and plural nouns.\n\nTo make a negative sentence, add 'not' after the verb: am not, is not (isn't), are not (aren't).\n\nTo make a question, put the verb before the subject: Am I...? Is he...? Are you...?",
+    "examples": [
+      {
+        "sentence": "I am a student.",
+        "note": "I + am"
+      },
+      {
+        "sentence": "She is from Tashkent.",
+        "note": "She + is"
+      },
+      {
+        "sentence": "They are my friends.",
+        "note": "They + are"
+      },
+      {
+        "sentence": "He is not happy today.",
+        "note": "negative: is not = isn't"
+      },
+      {
+        "sentence": "Are you ready?",
+        "note": "question: Are + you"
+      }
+    ],
+    "questions": [
+      {
+        "id": "g1q1",
+        "type": "multiple-choice",
+        "text": "I ___ a teacher.",
+        "options": [
+          "am",
+          "is",
+          "are"
+        ],
+        "correctAnswer": "am"
+      },
+      {
+        "id": "g1q2",
+        "type": "multiple-choice",
+        "text": "She ___ my sister.",
+        "options": [
+          "am",
+          "is",
+          "are"
+        ],
+        "correctAnswer": "is"
+      },
+      {
+        "id": "g1q3",
+        "type": "multiple-choice",
+        "text": "We ___ from Uzbekistan.",
+        "options": [
+          "am",
+          "is",
+          "are"
+        ],
+        "correctAnswer": "are"
+      },
+      {
+        "id": "g1q4",
+        "type": "multiple-choice",
+        "text": "It ___ a nice day.",
+        "options": [
+          "am",
+          "is",
+          "are"
+        ],
+        "correctAnswer": "is"
+      },
+      {
+        "id": "g1q5",
+        "type": "fill-blank",
+        "text": "They ___ (be) at home now.",
+        "correctAnswer": [
+          "are"
+        ]
+      },
+      {
+        "id": "g1q6",
+        "type": "fill-blank",
+        "text": "He ___ (be, negative) at school today.",
+        "correctAnswer": [
+          "is not",
+          "isn't"
+        ]
+      },
+      {
+        "id": "g1q7",
+        "type": "multiple-choice",
+        "text": "Which question is correct?",
+        "options": [
+          "Is you ready?",
+          "Are you ready?",
+          "Am you ready?"
+        ],
+        "correctAnswer": "Are you ready?"
+      },
+      {
+        "id": "g1q8",
+        "type": "multiple-choice",
+        "text": "You ___ very kind.",
+        "options": [
+          "am",
+          "is",
+          "are"
+        ],
+        "correctAnswer": "are"
+      },
+      {
+        "id": "g1q9",
+        "type": "fill-blank",
+        "text": "I ___ not tired.",
+        "correctAnswer": [
+          "am"
+        ]
+      },
+      {
+        "id": "g1q10",
+        "type": "multiple-choice",
+        "text": "My parents ___ doctors.",
+        "options": [
+          "am",
+          "is",
+          "are"
+        ],
+        "correctAnswer": "are"
+      }
+    ]
+  },
+  {
+    "day_number": 2,
+    "title": "Personal Pronouns (I, you, he, she, it, we, they)",
+    "explanation": "Personal pronouns replace nouns so we don't repeat names. \n\nI = the speaker. You = the listener. He = a male person. She = a female person. It = a thing or animal. We = the speaker and others. They = other people or things.\n\nWe use these pronouns as the subject of a sentence, before the verb.",
+    "examples": [
+      {
+        "sentence": "John is tired. He wants to sleep.",
+        "note": "He replaces John"
+      },
+      {
+        "sentence": "Maria is my friend. She lives near me.",
+        "note": "She replaces Maria"
+      },
+      {
+        "sentence": "The book is on the table. It is blue.",
+        "note": "It replaces the book"
+      },
+      {
+        "sentence": "My brother and I are happy. We are happy.",
+        "note": "We replaces 'my brother and I'"
+      },
+      {
+        "sentence": "Tom and Anna are students. They study English.",
+        "note": "They replaces 'Tom and Anna'"
+      }
+    ],
+    "questions": [
+      {
+        "id": "g2q1",
+        "type": "multiple-choice",
+        "text": "Peter is my friend. ___ is very funny.",
+        "options": [
+          "He",
+          "She",
+          "It"
+        ],
+        "correctAnswer": "He"
+      },
+      {
+        "id": "g2q2",
+        "type": "multiple-choice",
+        "text": "Sara is a doctor. ___ works at a hospital.",
+        "options": [
+          "He",
+          "She",
+          "They"
+        ],
+        "correctAnswer": "She"
+      },
+      {
+        "id": "g2q3",
+        "type": "multiple-choice",
+        "text": "My cat is small. ___ likes to play.",
+        "options": [
+          "He",
+          "It",
+          "She"
+        ],
+        "correctAnswer": "It"
+      },
+      {
+        "id": "g2q4",
+        "type": "multiple-choice",
+        "text": "My friends and I are at school. ___ are studying.",
+        "options": [
+          "They",
+          "We",
+          "You"
+        ],
+        "correctAnswer": "We"
+      },
+      {
+        "id": "g2q5",
+        "type": "fill-blank",
+        "text": "Ali and Vali are brothers. ___ live together.",
+        "correctAnswer": [
+          "They"
+        ]
+      },
+      {
+        "id": "g2q6",
+        "type": "multiple-choice",
+        "text": "Excuse me, Mr. Smith, are ___ busy?",
+        "options": [
+          "you",
+          "he",
+          "they"
+        ],
+        "correctAnswer": "you"
+      },
+      {
+        "id": "g2q7",
+        "type": "fill-blank",
+        "text": "___ am from Bukhara.",
+        "correctAnswer": [
+          "I"
+        ]
+      },
+      {
+        "id": "g2q8",
+        "type": "multiple-choice",
+        "text": "The children are playing. ___ are happy.",
+        "options": [
+          "It",
+          "They",
+          "He"
+        ],
+        "correctAnswer": "They"
+      },
+      {
+        "id": "g2q9",
+        "type": "fill-blank",
+        "text": "This is my mother. ___ is a kind person.",
+        "correctAnswer": [
+          "She"
+        ]
+      },
+      {
+        "id": "g2q10",
+        "type": "multiple-choice",
+        "text": "My dog and I go for a walk every day. ___ enjoy it.",
+        "options": [
+          "We",
+          "They",
+          "It"
+        ],
+        "correctAnswer": "We"
+      }
+    ]
+  },
+  {
+    "day_number": 3,
+    "title": "Articles: a, an, the",
+    "explanation": "We use 'a' and 'an' before singular, countable nouns when we mention something for the first time, or when it isn't specific.\n\nUse 'a' before a consonant sound: a book, a car, a university.\nUse 'an' before a vowel sound: an apple, an hour, an idea.\n\nWe use 'the' when we talk about a specific thing, something already mentioned, or something unique (like the sun, the moon).\n\nWe usually don't use an article with plural nouns in general statements, or with most proper names.",
+    "examples": [
+      {
+        "sentence": "I have a dog.",
+        "note": "a + consonant sound"
+      },
+      {
+        "sentence": "She is an engineer.",
+        "note": "an + vowel sound"
+      },
+      {
+        "sentence": "I saw a man. The man was tall.",
+        "note": "second mention uses 'the'"
+      },
+      {
+        "sentence": "The sun rises in the east.",
+        "note": "unique thing: the sun"
+      },
+      {
+        "sentence": "Cats are independent animals.",
+        "note": "no article for general plural statement"
+      }
+    ],
+    "questions": [
+      {
+        "id": "g3q1",
+        "type": "multiple-choice",
+        "text": "I bought ___ apple at the market.",
+        "options": [
+          "a",
+          "an",
+          "the"
+        ],
+        "correctAnswer": "an"
+      },
+      {
+        "id": "g3q2",
+        "type": "multiple-choice",
+        "text": "She is ___ teacher.",
+        "options": [
+          "a",
+          "an",
+          "the"
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "id": "g3q3",
+        "type": "multiple-choice",
+        "text": "Look at ___ moon tonight!",
+        "options": [
+          "a",
+          "an",
+          "the"
+        ],
+        "correctAnswer": "the"
+      },
+      {
+        "id": "g3q4",
+        "type": "multiple-choice",
+        "text": "I need ___ hour to finish this.",
+        "options": [
+          "a",
+          "an",
+          "the"
+        ],
+        "correctAnswer": "an"
+      },
+      {
+        "id": "g3q5",
+        "type": "fill-blank",
+        "text": "There is ___ cat in the garden.",
+        "correctAnswer": [
+          "a"
+        ]
+      },
+      {
+        "id": "g3q6",
+        "type": "multiple-choice",
+        "text": "He works at ___ university near here.",
+        "options": [
+          "a",
+          "an",
+          "the"
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "id": "g3q7",
+        "type": "fill-blank",
+        "text": "Can you close ___ door, please?",
+        "correctAnswer": [
+          "the"
+        ]
+      },
+      {
+        "id": "g3q8",
+        "type": "multiple-choice",
+        "text": "___ elephants are very intelligent animals.",
+        "options": [
+          "A",
+          "An",
+          "(no article)"
+        ],
+        "correctAnswer": "(no article)"
+      },
+      {
+        "id": "g3q9",
+        "type": "fill-blank",
+        "text": "I want to buy ___ orange and a banana.",
+        "correctAnswer": [
+          "an"
+        ]
+      },
+      {
+        "id": "g3q10",
+        "type": "multiple-choice",
+        "text": "We visited ___ museum yesterday. ___ museum was huge.",
+        "options": [
+          "a / The",
+          "an / A",
+          "the / A"
+        ],
+        "correctAnswer": "a / The"
+      }
+    ]
+  },
+  {
+    "day_number": 4,
+    "title": "Singular and Plural Nouns",
+    "explanation": "Most English nouns become plural by adding -s: book -> books, car -> cars.\n\nIf a noun ends in -s, -x, -ch, -sh, add -es: bus -> buses, box -> boxes, watch -> watches.\n\nIf a noun ends in a consonant + y, change y to i and add -es: city -> cities, baby -> babies.\n\nSome nouns are irregular and don't follow these rules: man -> men, woman -> women, child -> children, person -> people, foot -> feet, tooth -> teeth.\n\nSome nouns have no plural form at all, like water, information, advice.",
+    "examples": [
+      {
+        "sentence": "I have two books.",
+        "note": "book -> books"
+      },
+      {
+        "sentence": "There are five buses outside.",
+        "note": "bus -> buses"
+      },
+      {
+        "sentence": "She visited three cities.",
+        "note": "city -> cities"
+      },
+      {
+        "sentence": "There are many children in the park.",
+        "note": "child -> children (irregular)"
+      },
+      {
+        "sentence": "Many people like this song.",
+        "note": "person -> people (irregular)"
+      }
+    ],
+    "questions": [
+      {
+        "id": "g4q1",
+        "type": "fill-blank",
+        "text": "I have two ___ (book).",
+        "correctAnswer": [
+          "books"
+        ]
+      },
+      {
+        "id": "g4q2",
+        "type": "fill-blank",
+        "text": "There are three ___ (box) on the table.",
+        "correctAnswer": [
+          "boxes"
+        ]
+      },
+      {
+        "id": "g4q3",
+        "type": "fill-blank",
+        "text": "She has many ___ (friend) at school.",
+        "correctAnswer": [
+          "friends"
+        ]
+      },
+      {
+        "id": "g4q4",
+        "type": "multiple-choice",
+        "text": "What is the plural of 'child'?",
+        "options": [
+          "childs",
+          "children",
+          "childes"
+        ],
+        "correctAnswer": "children"
+      },
+      {
+        "id": "g4q5",
+        "type": "multiple-choice",
+        "text": "What is the plural of 'city'?",
+        "options": [
+          "citys",
+          "cities",
+          "cityes"
+        ],
+        "correctAnswer": "cities"
+      },
+      {
+        "id": "g4q6",
+        "type": "fill-blank",
+        "text": "There are many ___ (woman) in this photo.",
+        "correctAnswer": [
+          "women"
+        ]
+      },
+      {
+        "id": "g4q7",
+        "type": "multiple-choice",
+        "text": "What is the plural of 'foot'?",
+        "options": [
+          "foots",
+          "feets",
+          "feet"
+        ],
+        "correctAnswer": "feet"
+      },
+      {
+        "id": "g4q8",
+        "type": "fill-blank",
+        "text": "We saw five ___ (man) at the market.",
+        "correctAnswer": [
+          "men"
+        ]
+      },
+      {
+        "id": "g4q9",
+        "type": "multiple-choice",
+        "text": "Which sentence is correct?",
+        "options": [
+          "I drink two waters.",
+          "I need some information.",
+          "I have two informations."
+        ],
+        "correctAnswer": "I need some information."
+      },
+      {
+        "id": "g4q10",
+        "type": "fill-blank",
+        "text": "There are ten ___ (watch) in the shop.",
+        "correctAnswer": [
+          "watches"
+        ]
+      }
+    ]
+  },
+  {
+    "day_number": 5,
+    "title": "This, That, These, Those",
+    "explanation": "We use 'this' and 'that' to point to one thing (singular). We use 'these' and 'those' to point to more than one thing (plural).\n\n'This' and 'these' refer to things that are near us.\n'That' and 'those' refer to things that are far from us.\n\nWe can use these words before a noun (this book) or alone, replacing the noun (This is my book).",
+    "examples": [
+      {
+        "sentence": "This is my phone.",
+        "note": "near, singular"
+      },
+      {
+        "sentence": "That is your house, over there.",
+        "note": "far, singular"
+      },
+      {
+        "sentence": "These are my shoes.",
+        "note": "near, plural"
+      },
+      {
+        "sentence": "Those are beautiful mountains.",
+        "note": "far, plural"
+      },
+      {
+        "sentence": "I like this book, not that one.",
+        "note": "comparing near and far"
+      }
+    ],
+    "questions": [
+      {
+        "id": "g5q1",
+        "type": "multiple-choice",
+        "text": "___ is my pen. (pointing to something near you, one item)",
+        "options": [
+          "This",
+          "These",
+          "Those"
+        ],
+        "correctAnswer": "This"
+      },
+      {
+        "id": "g5q2",
+        "type": "multiple-choice",
+        "text": "___ are my keys. (near, plural)",
+        "options": [
+          "This",
+          "That",
+          "These"
+        ],
+        "correctAnswer": "These"
+      },
+      {
+        "id": "g5q3",
+        "type": "multiple-choice",
+        "text": "Look at ___ mountains over there. (far, plural)",
+        "options": [
+          "this",
+          "those",
+          "that"
+        ],
+        "correctAnswer": "those"
+      },
+      {
+        "id": "g5q4",
+        "type": "multiple-choice",
+        "text": "___ car, over there, is very old. (far, singular)",
+        "options": [
+          "This",
+          "These",
+          "That"
+        ],
+        "correctAnswer": "That"
+      },
+      {
+        "id": "g5q5",
+        "type": "fill-blank",
+        "text": "___ is my brother. (near, singular)",
+        "correctAnswer": [
+          "This"
+        ]
+      },
+      {
+        "id": "g5q6",
+        "type": "fill-blank",
+        "text": "___ are delicious apples! (near, plural)",
+        "correctAnswer": [
+          "These"
+        ]
+      },
+      {
+        "id": "g5q7",
+        "type": "multiple-choice",
+        "text": "Can I have one of ___ apples? (far, plural)",
+        "options": [
+          "this",
+          "that",
+          "those"
+        ],
+        "correctAnswer": "those"
+      },
+      {
+        "id": "g5q8",
+        "type": "fill-blank",
+        "text": "I don't like ___ color. (far, singular)",
+        "correctAnswer": [
+          "that"
+        ]
+      },
+      {
+        "id": "g5q9",
+        "type": "multiple-choice",
+        "text": "___ is a difficult question.",
+        "options": [
+          "This",
+          "These",
+          "Those"
+        ],
+        "correctAnswer": "This"
+      },
+      {
+        "id": "g5q10",
+        "type": "fill-blank",
+        "text": "Whose are ___ books on the table near you?",
+        "correctAnswer": [
+          "these"
+        ]
+      }
+    ]
+  },
+  {
+    "day_number": 6,
+    "title": "Possessive Adjectives (my, your, his, her, its, our, their)",
+    "explanation": "Possessive adjectives show who something belongs to. They come before a noun.\n\nI -> my, You -> your, He -> his, She -> her, It -> its, We -> our, They -> their.\n\nUnlike some other languages, possessive adjectives in English do not change for plural nouns: 'my book' and 'my books' both use 'my'.",
+    "examples": [
+      {
+        "sentence": "This is my house.",
+        "note": "I -> my"
+      },
+      {
+        "sentence": "Is this your bag?",
+        "note": "you -> your"
+      },
+      {
+        "sentence": "He loves his job.",
+        "note": "he -> his"
+      },
+      {
+        "sentence": "She visited her grandmother.",
+        "note": "she -> her"
+      },
+      {
+        "sentence": "The cat is eating its food.",
+        "note": "it -> its"
+      }
+    ],
+    "questions": [
+      {
+        "id": "g6q1",
+        "type": "multiple-choice",
+        "text": "This is ___ pen. (I)",
+        "options": [
+          "my",
+          "your",
+          "his"
+        ],
+        "correctAnswer": "my"
+      },
+      {
+        "id": "g6q2",
+        "type": "multiple-choice",
+        "text": "Is that ___ car? (you)",
+        "options": [
+          "my",
+          "your",
+          "her"
+        ],
+        "correctAnswer": "your"
+      },
+      {
+        "id": "g6q3",
+        "type": "multiple-choice",
+        "text": "Peter lost ___ keys. (he)",
+        "options": [
+          "his",
+          "her",
+          "its"
+        ],
+        "correctAnswer": "his"
+      },
+      {
+        "id": "g6q4",
+        "type": "multiple-choice",
+        "text": "Maria called ___ mother. (she)",
+        "options": [
+          "his",
+          "her",
+          "their"
+        ],
+        "correctAnswer": "her"
+      },
+      {
+        "id": "g6q5",
+        "type": "fill-blank",
+        "text": "We love ___ new house. (we)",
+        "correctAnswer": [
+          "our"
+        ]
+      },
+      {
+        "id": "g6q6",
+        "type": "fill-blank",
+        "text": "The students did ___ homework. (they)",
+        "correctAnswer": [
+          "their"
+        ]
+      },
+      {
+        "id": "g6q7",
+        "type": "multiple-choice",
+        "text": "The dog wagged ___ tail. (it)",
+        "options": [
+          "its",
+          "his",
+          "her"
+        ],
+        "correctAnswer": "its"
+      },
+      {
+        "id": "g6q8",
+        "type": "fill-blank",
+        "text": "I can't find ___ phone. (I)",
+        "correctAnswer": [
+          "my"
+        ]
+      },
+      {
+        "id": "g6q9",
+        "type": "multiple-choice",
+        "text": "Choose the correct sentence.",
+        "options": [
+          "She is doing her homework.",
+          "She is doing its homework.",
+          "She is doing their homework."
+        ],
+        "correctAnswer": "She is doing her homework."
+      },
+      {
+        "id": "g6q10",
+        "type": "fill-blank",
+        "text": "John and Mary love ___ children. (they)",
+        "correctAnswer": [
+          "their"
+        ]
+      }
+    ]
+  },
+  {
+    "day_number": 7,
+    "title": "Possessive 's (Apostrophe S)",
+    "explanation": "We use 's after a singular noun to show possession: the girl's book (the book belongs to the girl).\n\nFor plural nouns ending in -s, we add only an apostrophe: the students' books.\n\nFor irregular plural nouns that don't end in -s (like children, men, women), we add 's: the children's toys.\n\nWe do not use 's for things - instead we usually use 'of' or just put the noun before another noun: the door of the car, or the car door.",
+    "examples": [
+      {
+        "sentence": "This is Anna's bag.",
+        "note": "singular noun + 's"
+      },
+      {
+        "sentence": "The boys' room is upstairs.",
+        "note": "plural ending in -s + apostrophe only"
+      },
+      {
+        "sentence": "The children's playground is closed.",
+        "note": "irregular plural + 's"
+      },
+      {
+        "sentence": "My sister's car is red.",
+        "note": "singular noun + 's"
+      },
+      {
+        "sentence": "The teachers' meeting starts at 5.",
+        "note": "plural ending in -s + apostrophe only"
+      }
+    ],
+    "questions": [
+      {
+        "id": "g7q1",
+        "type": "multiple-choice",
+        "text": "This is ___ bike. (Tom)",
+        "options": [
+          "Tom's",
+          "Toms'",
+          "Toms"
+        ],
+        "correctAnswer": "Tom's"
+      },
+      {
+        "id": "g7q2",
+        "type": "multiple-choice",
+        "text": "The ___ books are on the table. (students, plural)",
+        "options": [
+          "student's",
+          "students'",
+          "students"
+        ],
+        "correctAnswer": "students'"
+      },
+      {
+        "id": "g7q3",
+        "type": "multiple-choice",
+        "text": "The ___ toys are everywhere. (children)",
+        "options": [
+          "children's",
+          "childrens'",
+          "childrens"
+        ],
+        "correctAnswer": "children's"
+      },
+      {
+        "id": "g7q4",
+        "type": "fill-blank",
+        "text": "This is my ___ house. (sister)",
+        "correctAnswer": [
+          "sister's"
+        ]
+      },
+      {
+        "id": "g7q5",
+        "type": "fill-blank",
+        "text": "The ___ room is very clean. (boys, plural)",
+        "correctAnswer": [
+          "boys'"
+        ]
+      },
+      {
+        "id": "g7q6",
+        "type": "multiple-choice",
+        "text": "Whose pen is this? It's ___.",
+        "options": [
+          "Sara's",
+          "Saras'",
+          "Sara"
+        ],
+        "correctAnswer": "Sara's"
+      },
+      {
+        "id": "g7q7",
+        "type": "fill-blank",
+        "text": "The ___ office is on the second floor. (manager)",
+        "correctAnswer": [
+          "manager's"
+        ]
+      },
+      {
+        "id": "g7q8",
+        "type": "multiple-choice",
+        "text": "Choose the correct sentence.",
+        "options": [
+          "The dogs' food is here.",
+          "The dog's's food is here.",
+          "The dogs food is here."
+        ],
+        "correctAnswer": "The dogs' food is here."
+      },
+      {
+        "id": "g7q9",
+        "type": "fill-blank",
+        "text": "Have you seen ___ new phone? (James)",
+        "correctAnswer": [
+          "James's"
+        ]
+      },
+      {
+        "id": "g7q10",
+        "type": "multiple-choice",
+        "text": "The ___ shoes were left at the door. (women)",
+        "options": [
+          "women's",
+          "womens'",
+          "womens"
+        ],
+        "correctAnswer": "women's"
+      }
+    ]
+  },
+  {
+    "day_number": 8,
+    "title": "Present Simple (Affirmative)",
+    "explanation": "We use the Present Simple for habits, routines, facts, and things that are generally true.\n\nFor I, you, we, they, we use the base form of the verb: I work, you play, they live.\n\nFor he, she, it, we add -s to the verb: he works, she plays, it lives.\n\nVerbs ending in -ch, -sh, -ss, -x, -o add -es: he watches, she goes.\n\nVerbs ending in consonant + y change y to i and add -es: study -> studies.",
+    "examples": [
+      {
+        "sentence": "I work in a bank.",
+        "note": "I + base form"
+      },
+      {
+        "sentence": "She works in a hospital.",
+        "note": "she + verb-s"
+      },
+      {
+        "sentence": "He watches TV every evening.",
+        "note": "watch -> watches"
+      },
+      {
+        "sentence": "They live in Samarkand.",
+        "note": "they + base form"
+      },
+      {
+        "sentence": "My brother studies English.",
+        "note": "study -> studies"
+      }
+    ],
+    "questions": [
+      {
+        "id": "g8q1",
+        "type": "fill-blank",
+        "text": "She ___ (work) at a school.",
+        "correctAnswer": [
+          "works"
+        ]
+      },
+      {
+        "id": "g8q2",
+        "type": "fill-blank",
+        "text": "I ___ (like) tea very much.",
+        "correctAnswer": [
+          "like"
+        ]
+      },
+      {
+        "id": "g8q3",
+        "type": "fill-blank",
+        "text": "He ___ (go) to the gym every day.",
+        "correctAnswer": [
+          "goes"
+        ]
+      },
+      {
+        "id": "g8q4",
+        "type": "fill-blank",
+        "text": "They ___ (play) football on weekends.",
+        "correctAnswer": [
+          "play"
+        ]
+      },
+      {
+        "id": "g8q5",
+        "type": "fill-blank",
+        "text": "My mother ___ (cook) dinner every night.",
+        "correctAnswer": [
+          "cooks"
+        ]
+      },
+      {
+        "id": "g8q6",
+        "type": "multiple-choice",
+        "text": "Which is correct?",
+        "options": [
+          "She studys hard.",
+          "She studies hard.",
+          "She studyes hard."
+        ],
+        "correctAnswer": "She studies hard."
+      },
+      {
+        "id": "g8q7",
+        "type": "fill-blank",
+        "text": "We ___ (live) in a big city.",
+        "correctAnswer": [
+          "live"
+        ]
+      },
+      {
+        "id": "g8q8",
+        "type": "fill-blank",
+        "text": "The shop ___ (open) at nine.",
+        "correctAnswer": [
+          "opens"
+        ]
+      },
+      {
+        "id": "g8q9",
+        "type": "multiple-choice",
+        "text": "Which is correct?",
+        "options": [
+          "He washs his car.",
+          "He washes his car.",
+          "He washies his car."
+        ],
+        "correctAnswer": "He washes his car."
+      },
+      {
+        "id": "g8q10",
+        "type": "fill-blank",
+        "text": "My friend ___ (speak) three languages.",
+        "correctAnswer": [
+          "speaks"
+        ]
+      }
+    ]
+  },
+  {
+    "day_number": 9,
+    "title": "Present Simple: Negative and Questions",
+    "explanation": "To make a negative sentence in the Present Simple, we use 'do not' (don't) or 'does not' (doesn't) before the base form of the verb.\n\nUse don't with I, you, we, they: I don't like coffee.\nUse doesn't with he, she, it: She doesn't like coffee.\n\nTo make a question, we put Do or Does at the beginning of the sentence: Do you like coffee? Does she like coffee?\n\nImportant: after don't/doesn't and Do/Does, the verb always stays in its base form, without -s.",
+    "examples": [
+      {
+        "sentence": "I don't eat meat.",
+        "note": "I + don't + base form"
+      },
+      {
+        "sentence": "She doesn't like loud music.",
+        "note": "she + doesn't + base form"
+      },
+      {
+        "sentence": "Do you speak English?",
+        "note": "Do + you + base form"
+      },
+      {
+        "sentence": "Does he work on Sundays?",
+        "note": "Does + he + base form"
+      },
+      {
+        "sentence": "They don't live here anymore.",
+        "note": "they + don't + base form"
+      }
+    ],
+    "questions": [
+      {
+        "id": "g9q1",
+        "type": "fill-blank",
+        "text": "I ___ (not like) spicy food.",
+        "correctAnswer": [
+          "don't like",
+          "do not like"
+        ]
+      },
+      {
+        "id": "g9q2",
+        "type": "fill-blank",
+        "text": "She ___ (not work) on Sundays.",
+        "correctAnswer": [
+          "doesn't work",
+          "does not work"
+        ]
+      },
+      {
+        "id": "g9q3",
+        "type": "multiple-choice",
+        "text": "___ you like tea?",
+        "options": [
+          "Do",
+          "Does",
+          "Are"
+        ],
+        "correctAnswer": "Do"
+      },
+      {
+        "id": "g9q4",
+        "type": "multiple-choice",
+        "text": "___ he play football?",
+        "options": [
+          "Do",
+          "Does",
+          "Is"
+        ],
+        "correctAnswer": "Does"
+      },
+      {
+        "id": "g9q5",
+        "type": "fill-blank",
+        "text": "We ___ (not have) a car.",
+        "correctAnswer": [
+          "don't have",
+          "do not have"
+        ]
+      },
+      {
+        "id": "g9q6",
+        "type": "multiple-choice",
+        "text": "Choose the correct question.",
+        "options": [
+          "Does she likes tea?",
+          "Does she like tea?",
+          "Do she like tea?"
+        ],
+        "correctAnswer": "Does she like tea?"
+      },
+      {
+        "id": "g9q7",
+        "type": "fill-blank",
+        "text": "They ___ (not study) on weekends.",
+        "correctAnswer": [
+          "don't study",
+          "do not study"
+        ]
+      },
+      {
+        "id": "g9q8",
+        "type": "multiple-choice",
+        "text": "Choose the correct negative sentence.",
+        "options": [
+          "He don't like fish.",
+          "He doesn't likes fish.",
+          "He doesn't like fish."
+        ],
+        "correctAnswer": "He doesn't like fish."
+      },
+      {
+        "id": "g9q9",
+        "type": "fill-blank",
+        "text": "___ your sister speak French? (question)",
+        "correctAnswer": [
+          "Does"
+        ]
+      },
+      {
+        "id": "g9q10",
+        "type": "fill-blank",
+        "text": "I ___ (not understand) this question.",
+        "correctAnswer": [
+          "don't understand",
+          "do not understand"
+        ]
+      }
+    ]
+  },
+  {
+    "day_number": 10,
+    "title": "Adverbs of Frequency (always, usually, often, sometimes, rarely, never)",
+    "explanation": "Adverbs of frequency tell us how often something happens. Common ones, from most to least frequent: always, usually, often, sometimes, rarely, never.\n\nThese adverbs usually come before the main verb: She always drinks tea in the morning.\n\nBut with the verb 'to be', the adverb comes after it: He is always late.\n\nIn questions, we often use 'How often...?' to ask about frequency: How often do you exercise?",
+    "examples": [
+      {
+        "sentence": "I always wake up at seven.",
+        "note": "before main verb"
+      },
+      {
+        "sentence": "He is often busy on Mondays.",
+        "note": "after 'to be'"
+      },
+      {
+        "sentence": "We sometimes go to the cinema.",
+        "note": "before main verb"
+      },
+      {
+        "sentence": "She never drinks coffee.",
+        "note": "before main verb"
+      },
+      {
+        "sentence": "How often do you read books?",
+        "note": "question with How often"
+      }
+    ],
+    "questions": [
+      {
+        "id": "g10q1",
+        "type": "multiple-choice",
+        "text": "I ___ go to bed early. (100% of the time)",
+        "options": [
+          "always",
+          "never",
+          "rarely"
+        ],
+        "correctAnswer": "always"
+      },
+      {
+        "id": "g10q2",
+        "type": "multiple-choice",
+        "text": "She ___ eats vegetables. (0% of the time)",
+        "options": [
+          "always",
+          "often",
+          "never"
+        ],
+        "correctAnswer": "never"
+      },
+      {
+        "id": "g10q3",
+        "type": "multiple-choice",
+        "text": "He is ___ late for class.",
+        "options": [
+          "usually",
+          "the usually",
+          "usual"
+        ],
+        "correctAnswer": "usually"
+      },
+      {
+        "id": "g10q4",
+        "type": "fill-blank",
+        "text": "We ___ (sometimes) watch movies on Friday.",
+        "correctAnswer": [
+          "sometimes"
+        ]
+      },
+      {
+        "id": "g10q5",
+        "type": "multiple-choice",
+        "text": "Choose the correct word order.",
+        "options": [
+          "I drink always tea.",
+          "I always drink tea.",
+          "Always I drink tea."
+        ],
+        "correctAnswer": "I always drink tea."
+      },
+      {
+        "id": "g10q6",
+        "type": "fill-blank",
+        "text": "___ often do you go to the gym?",
+        "correctAnswer": [
+          "How"
+        ]
+      },
+      {
+        "id": "g10q7",
+        "type": "multiple-choice",
+        "text": "They are ___ happy to help.",
+        "options": [
+          "always",
+          "alway",
+          "all way"
+        ],
+        "correctAnswer": "always"
+      },
+      {
+        "id": "g10q8",
+        "type": "fill-blank",
+        "text": "She ___ (rarely) eats fast food.",
+        "correctAnswer": [
+          "rarely"
+        ]
+      },
+      {
+        "id": "g10q9",
+        "type": "multiple-choice",
+        "text": "Choose the correct sentence with 'to be'.",
+        "options": [
+          "He always is tired.",
+          "He is always tired.",
+          "Always he is tired."
+        ],
+        "correctAnswer": "He is always tired."
+      },
+      {
+        "id": "g10q10",
+        "type": "fill-blank",
+        "text": "I ___ (often) visit my grandparents.",
+        "correctAnswer": [
+          "often"
+        ]
+      }
+    ]
+  },
+  {
+    "day_number": 11,
+    "title": "Present Continuous (am/is/are + -ing)",
+    "explanation": "We use the Present Continuous for actions happening right now, or around the present time.\n\nForm: am/is/are + verb-ing. I am working, she is reading, they are playing.\n\nMost verbs simply add -ing: play -> playing, read -> reading.\nVerbs ending in -e usually drop the e: make -> making, write -> writing.\nShort verbs ending in one vowel + one consonant double the last letter: run -> running, sit -> sitting.\n\nWe also use the Present Continuous for future arrangements: I am meeting her tomorrow.",
+    "examples": [
+      {
+        "sentence": "I am studying English now.",
+        "note": "study -> studying"
+      },
+      {
+        "sentence": "She is writing an email.",
+        "note": "write -> writing (drop e)"
+      },
+      {
+        "sentence": "They are running in the park.",
+        "note": "run -> running (double letter)"
+      },
+      {
+        "sentence": "He is not sleeping right now.",
+        "note": "negative form"
+      },
+      {
+        "sentence": "Are you listening to me?",
+        "note": "question form"
+      }
+    ],
+    "questions": [
+      {
+        "id": "g11q1",
+        "type": "fill-blank",
+        "text": "I ___ (write) a letter right now.",
+        "correctAnswer": [
+          "am writing"
+        ]
+      },
+      {
+        "id": "g11q2",
+        "type": "fill-blank",
+        "text": "She ___ (read) a book at the moment.",
+        "correctAnswer": [
+          "is reading"
+        ]
+      },
+      {
+        "id": "g11q3",
+        "type": "fill-blank",
+        "text": "They ___ (play) football now.",
+        "correctAnswer": [
+          "are playing"
+        ]
+      },
+      {
+        "id": "g11q4",
+        "type": "multiple-choice",
+        "text": "What is the -ing form of 'run'?",
+        "options": [
+          "runing",
+          "running",
+          "runeing"
+        ],
+        "correctAnswer": "running"
+      },
+      {
+        "id": "g11q5",
+        "type": "multiple-choice",
+        "text": "What is the -ing form of 'make'?",
+        "options": [
+          "makeing",
+          "making",
+          "makking"
+        ],
+        "correctAnswer": "making"
+      },
+      {
+        "id": "g11q6",
+        "type": "fill-blank",
+        "text": "He ___ (not work) today.",
+        "correctAnswer": [
+          "is not working",
+          "isn't working"
+        ]
+      },
+      {
+        "id": "g11q7",
+        "type": "multiple-choice",
+        "text": "___ you listening to me?",
+        "options": [
+          "Do",
+          "Are",
+          "Is"
+        ],
+        "correctAnswer": "Are"
+      },
+      {
+        "id": "g11q8",
+        "type": "fill-blank",
+        "text": "We ___ (have) lunch right now.",
+        "correctAnswer": [
+          "are having"
+        ]
+      },
+      {
+        "id": "g11q9",
+        "type": "multiple-choice",
+        "text": "Choose the correct sentence.",
+        "options": [
+          "She is sit on the chair.",
+          "She is sitting on the chair.",
+          "She sitting on the chair."
+        ],
+        "correctAnswer": "She is sitting on the chair."
+      },
+      {
+        "id": "g11q10",
+        "type": "fill-blank",
+        "text": "I ___ (meet) my friend tomorrow evening.",
+        "correctAnswer": [
+          "am meeting"
+        ]
+      }
+    ]
+  },
+  {
+    "day_number": 12,
+    "title": "Present Simple vs Present Continuous",
+    "explanation": "Present Simple is for habits, routines, facts, and permanent situations: I work in a bank. Water boils at 100 degrees.\n\nPresent Continuous is for actions happening right now, or temporary situations: I am working right now. She is staying with friends this week.\n\nSome words signal which tense to use: words like 'always, usually, every day' often go with Present Simple, while 'now, right now, at the moment' go with Present Continuous.\n\nSome verbs (like, want, know, believe) are not normally used in the continuous form: we say 'I like it', not 'I am liking it'.",
+    "examples": [
+      {
+        "sentence": "I usually walk to school.",
+        "note": "habit -> Present Simple"
+      },
+      {
+        "sentence": "I am walking to school right now.",
+        "note": "happening now -> Present Continuous"
+      },
+      {
+        "sentence": "She works at a hospital.",
+        "note": "permanent situation -> Present Simple"
+      },
+      {
+        "sentence": "She is working late this week.",
+        "note": "temporary -> Present Continuous"
+      },
+      {
+        "sentence": "I know the answer.",
+        "note": "'know' is not used in continuous form"
+      }
+    ],
+    "questions": [
+      {
+        "id": "g12q1",
+        "type": "multiple-choice",
+        "text": "I ___ (study) English every day.",
+        "options": [
+          "study",
+          "am studying",
+          "studies"
+        ],
+        "correctAnswer": "study"
+      },
+      {
+        "id": "g12q2",
+        "type": "multiple-choice",
+        "text": "Look! It ___ (rain) outside.",
+        "options": [
+          "rains",
+          "is raining",
+          "rain"
+        ],
+        "correctAnswer": "is raining"
+      },
+      {
+        "id": "g12q3",
+        "type": "multiple-choice",
+        "text": "She ___ (not like) loud music. (general fact)",
+        "options": [
+          "doesn't like",
+          "isn't liking",
+          "don't like"
+        ],
+        "correctAnswer": "doesn't like"
+      },
+      {
+        "id": "g12q4",
+        "type": "multiple-choice",
+        "text": "Right now, they ___ (have) dinner.",
+        "options": [
+          "have",
+          "are having",
+          "has"
+        ],
+        "correctAnswer": "are having"
+      },
+      {
+        "id": "g12q5",
+        "type": "fill-blank",
+        "text": "He ___ (work) in a bank. (permanent job)",
+        "correctAnswer": [
+          "works"
+        ]
+      },
+      {
+        "id": "g12q6",
+        "type": "fill-blank",
+        "text": "Be quiet, the baby ___ (sleep).",
+        "correctAnswer": [
+          "is sleeping"
+        ]
+      },
+      {
+        "id": "g12q7",
+        "type": "multiple-choice",
+        "text": "Which sentence is correct?",
+        "options": [
+          "I am knowing the answer.",
+          "I know the answer.",
+          "I knows the answer."
+        ],
+        "correctAnswer": "I know the answer."
+      },
+      {
+        "id": "g12q8",
+        "type": "fill-blank",
+        "text": "We ___ (usually / have) breakfast at 7.",
+        "correctAnswer": [
+          "usually have"
+        ]
+      },
+      {
+        "id": "g12q9",
+        "type": "multiple-choice",
+        "text": "At the moment, she ___ (study) for her exam.",
+        "options": [
+          "studies",
+          "is studying",
+          "study"
+        ],
+        "correctAnswer": "is studying"
+      },
+      {
+        "id": "g12q10",
+        "type": "fill-blank",
+        "text": "The sun ___ (rise) in the east. (general fact)",
+        "correctAnswer": [
+          "rises"
+        ]
+      }
+    ]
+  },
+  {
+    "day_number": 13,
+    "title": "There is / There are",
+    "explanation": "We use 'There is' with singular and uncountable nouns, and 'There are' with plural nouns, to say that something exists or is present in a place.\n\nThere is a book on the table. There are three books on the table.\n\nNegative: There isn't / There aren't. Question: Is there...? Are there...?\n\nWe often use 'There is/are' with words like 'a', 'some', 'any', and numbers.",
+    "examples": [
+      {
+        "sentence": "There is a cat in the garden.",
+        "note": "singular noun"
+      },
+      {
+        "sentence": "There are five chairs in the room.",
+        "note": "plural noun"
+      },
+      {
+        "sentence": "There isn't any milk in the fridge.",
+        "note": "negative, uncountable"
+      },
+      {
+        "sentence": "Is there a bank near here?",
+        "note": "question, singular"
+      },
+      {
+        "sentence": "Are there any students in the classroom?",
+        "note": "question, plural"
+      }
+    ],
+    "questions": [
+      {
+        "id": "g13q1",
+        "type": "multiple-choice",
+        "text": "___ a pen on the desk.",
+        "options": [
+          "There is",
+          "There are",
+          "There be"
+        ],
+        "correctAnswer": "There is"
+      },
+      {
+        "id": "g13q2",
+        "type": "multiple-choice",
+        "text": "___ many books in the library.",
+        "options": [
+          "There is",
+          "There are",
+          "It is"
+        ],
+        "correctAnswer": "There are"
+      },
+      {
+        "id": "g13q3",
+        "type": "fill-blank",
+        "text": "___ a problem with my computer.",
+        "correctAnswer": [
+          "There is"
+        ]
+      },
+      {
+        "id": "g13q4",
+        "type": "fill-blank",
+        "text": "___ many people at the party.",
+        "correctAnswer": [
+          "There were",
+          "There are"
+        ]
+      },
+      {
+        "id": "g13q5",
+        "type": "multiple-choice",
+        "text": "___ any tomatoes in the kitchen?",
+        "options": [
+          "Is there",
+          "Are there",
+          "Does there"
+        ],
+        "correctAnswer": "Are there"
+      },
+      {
+        "id": "g13q6",
+        "type": "multiple-choice",
+        "text": "___ a good restaurant near your house?",
+        "options": [
+          "Is there",
+          "Are there",
+          "Do there"
+        ],
+        "correctAnswer": "Is there"
+      },
+      {
+        "id": "g13q7",
+        "type": "fill-blank",
+        "text": "There ___ (not) any sugar left.",
+        "correctAnswer": [
+          "isn't",
+          "is not"
+        ]
+      },
+      {
+        "id": "g13q8",
+        "type": "multiple-choice",
+        "text": "Choose the correct sentence.",
+        "options": [
+          "There is two windows.",
+          "There are two windows.",
+          "There two windows."
+        ],
+        "correctAnswer": "There are two windows."
+      },
+      {
+        "id": "g13q9",
+        "type": "fill-blank",
+        "text": "___ a lot of traffic this morning.",
+        "correctAnswer": [
+          "There was",
+          "There is"
+        ]
+      },
+      {
+        "id": "g13q10",
+        "type": "multiple-choice",
+        "text": "How many chairs ___ in the room?",
+        "options": [
+          "is there",
+          "are there",
+          "there are"
+        ],
+        "correctAnswer": "are there"
+      }
+    ]
+  },
+  {
+    "day_number": 14,
+    "title": "Prepositions of Place (in, on, at, under, behind, next to)",
+    "explanation": "Prepositions of place show where something or someone is.\n\n'In' is for enclosed spaces: in a box, in a room, in a city.\n'On' is for surfaces: on the table, on the wall, on the floor.\n'At' is for specific points or places: at the door, at the bus stop, at school.\n\nOther useful prepositions: under (below something), behind (at the back of something), in front of (at the front of something), next to / beside (close to something), between (in the middle of two things).",
+    "examples": [
+      {
+        "sentence": "The keys are in my bag.",
+        "note": "in + enclosed space"
+      },
+      {
+        "sentence": "The book is on the table.",
+        "note": "on + surface"
+      },
+      {
+        "sentence": "She is waiting at the bus stop.",
+        "note": "at + specific point"
+      },
+      {
+        "sentence": "The cat is under the bed.",
+        "note": "under + below"
+      },
+      {
+        "sentence": "The school is between the bank and the park.",
+        "note": "between + two things"
+      }
+    ],
+    "questions": [
+      {
+        "id": "g14q1",
+        "type": "multiple-choice",
+        "text": "The pen is ___ the table.",
+        "options": [
+          "in",
+          "on",
+          "at"
+        ],
+        "correctAnswer": "on"
+      },
+      {
+        "id": "g14q2",
+        "type": "multiple-choice",
+        "text": "I live ___ Tashkent.",
+        "options": [
+          "in",
+          "on",
+          "at"
+        ],
+        "correctAnswer": "in"
+      },
+      {
+        "id": "g14q3",
+        "type": "multiple-choice",
+        "text": "She is waiting ___ the door.",
+        "options": [
+          "in",
+          "on",
+          "at"
+        ],
+        "correctAnswer": "at"
+      },
+      {
+        "id": "g14q4",
+        "type": "fill-blank",
+        "text": "The cat is hiding ___ the sofa. (below)",
+        "correctAnswer": [
+          "under"
+        ]
+      },
+      {
+        "id": "g14q5",
+        "type": "fill-blank",
+        "text": "The car is parked ___ the house. (close to)",
+        "correctAnswer": [
+          "next to",
+          "beside"
+        ]
+      },
+      {
+        "id": "g14q6",
+        "type": "multiple-choice",
+        "text": "There is a picture ___ the wall.",
+        "options": [
+          "in",
+          "on",
+          "at"
+        ],
+        "correctAnswer": "on"
+      },
+      {
+        "id": "g14q7",
+        "type": "fill-blank",
+        "text": "The garden is ___ the house. (at the back)",
+        "correctAnswer": [
+          "behind"
+        ]
+      },
+      {
+        "id": "g14q8",
+        "type": "multiple-choice",
+        "text": "We are ___ school until 3 pm.",
+        "options": [
+          "in",
+          "on",
+          "at"
+        ],
+        "correctAnswer": "at"
+      },
+      {
+        "id": "g14q9",
+        "type": "fill-blank",
+        "text": "The bank is ___ the supermarket and the pharmacy.",
+        "correctAnswer": [
+          "between"
+        ]
+      },
+      {
+        "id": "g14q10",
+        "type": "multiple-choice",
+        "text": "My phone is ___ my pocket.",
+        "options": [
+          "in",
+          "on",
+          "at"
+        ],
+        "correctAnswer": "in"
+      }
+    ]
+  },
+  {
+    "day_number": 15,
+    "title": "Can / Can't (Ability)",
+    "explanation": "We use 'can' to talk about ability - things we are able to do.\n\nCan is a modal verb: it doesn't change form, and we don't add -s for he/she/it. She can swim. NOT: She cans swim.\n\nNegative: cannot or can't. I can't drive.\n\nQuestion: Can + subject + verb? Can you speak English?\n\nAfter can/can't, we always use the base form of the verb, without 'to'.",
+    "examples": [
+      {
+        "sentence": "I can swim very well.",
+        "note": "ability"
+      },
+      {
+        "sentence": "She can speak three languages.",
+        "note": "can + base verb, no -s"
+      },
+      {
+        "sentence": "He can't drive a car.",
+        "note": "negative ability"
+      },
+      {
+        "sentence": "Can you ride a bicycle?",
+        "note": "question"
+      },
+      {
+        "sentence": "They can play the piano.",
+        "note": "ability"
+      }
+    ],
+    "questions": [
+      {
+        "id": "g15q1",
+        "type": "fill-blank",
+        "text": "She ___ (can) speak French.",
+        "correctAnswer": [
+          "can"
+        ]
+      },
+      {
+        "id": "g15q2",
+        "type": "multiple-choice",
+        "text": "Choose the correct sentence.",
+        "options": [
+          "He cans swim.",
+          "He can swims.",
+          "He can swim."
+        ],
+        "correctAnswer": "He can swim."
+      },
+      {
+        "id": "g15q3",
+        "type": "fill-blank",
+        "text": "I ___ (cannot) play the guitar.",
+        "correctAnswer": [
+          "can't",
+          "cannot"
+        ]
+      },
+      {
+        "id": "g15q4",
+        "type": "multiple-choice",
+        "text": "___ you cook Italian food?",
+        "options": [
+          "Can",
+          "Do",
+          "Are"
+        ],
+        "correctAnswer": "Can"
+      },
+      {
+        "id": "g15q5",
+        "type": "fill-blank",
+        "text": "My brother ___ (can) ride a horse.",
+        "correctAnswer": [
+          "can"
+        ]
+      },
+      {
+        "id": "g15q6",
+        "type": "multiple-choice",
+        "text": "Choose the correct question.",
+        "options": [
+          "Can she to dance?",
+          "Can she dances?",
+          "Can she dance?"
+        ],
+        "correctAnswer": "Can she dance?"
+      },
+      {
+        "id": "g15q7",
+        "type": "fill-blank",
+        "text": "They ___ (can, negative) come to the party.",
+        "correctAnswer": [
+          "can't",
+          "cannot"
+        ]
+      },
+      {
+        "id": "g15q8",
+        "type": "multiple-choice",
+        "text": "Birds ___ fly, but they can't talk.",
+        "options": [
+          "can",
+          "cans",
+          "is can"
+        ],
+        "correctAnswer": "can"
+      },
+      {
+        "id": "g15q9",
+        "type": "fill-blank",
+        "text": "___ you understand this sentence?",
+        "correctAnswer": [
+          "Can"
+        ]
+      },
+      {
+        "id": "g15q10",
+        "type": "multiple-choice",
+        "text": "We ___ see the mountains from here.",
+        "options": [
+          "can",
+          "cans",
+          "can to"
+        ],
+        "correctAnswer": "can"
+      }
+    ]
+  },
+  {
+    "day_number": 16,
+    "title": "Past Simple: to be (was / were)",
+    "explanation": "The past form of 'to be' has two forms: was and were.\n\nUse 'was' with I, he, she, it: I was tired. She was happy.\nUse 'were' with you, we, they: You were late. They were at home.\n\nNegative: was not (wasn't), were not (weren't).\n\nQuestion: Was + subject...? Were + subject...? Was she ready? Were they at school?",
+    "examples": [
+      {
+        "sentence": "I was at home yesterday.",
+        "note": "I + was"
+      },
+      {
+        "sentence": "She was a teacher last year.",
+        "note": "she + was"
+      },
+      {
+        "sentence": "We were on holiday last week.",
+        "note": "we + were"
+      },
+      {
+        "sentence": "They weren't at the party.",
+        "note": "negative"
+      },
+      {
+        "sentence": "Were you busy yesterday?",
+        "note": "question"
+      }
+    ],
+    "questions": [
+      {
+        "id": "g16q1",
+        "type": "multiple-choice",
+        "text": "I ___ at school yesterday.",
+        "options": [
+          "was",
+          "were",
+          "am"
+        ],
+        "correctAnswer": "was"
+      },
+      {
+        "id": "g16q2",
+        "type": "multiple-choice",
+        "text": "They ___ very happy about the news.",
+        "options": [
+          "was",
+          "were",
+          "is"
+        ],
+        "correctAnswer": "were"
+      },
+      {
+        "id": "g16q3",
+        "type": "multiple-choice",
+        "text": "She ___ not at home last night.",
+        "options": [
+          "was",
+          "were",
+          "is"
+        ],
+        "correctAnswer": "was"
+      },
+      {
+        "id": "g16q4",
+        "type": "fill-blank",
+        "text": "We ___ (be) tired after the trip.",
+        "correctAnswer": [
+          "were"
+        ]
+      },
+      {
+        "id": "g16q5",
+        "type": "fill-blank",
+        "text": "___ you at the meeting yesterday?",
+        "correctAnswer": [
+          "Were"
+        ]
+      },
+      {
+        "id": "g16q6",
+        "type": "multiple-choice",
+        "text": "He ___ ill last week.",
+        "options": [
+          "was",
+          "were",
+          "be"
+        ],
+        "correctAnswer": "was"
+      },
+      {
+        "id": "g16q7",
+        "type": "fill-blank",
+        "text": "It ___ (be, negative) a good day.",
+        "correctAnswer": [
+          "wasn't",
+          "was not"
+        ]
+      },
+      {
+        "id": "g16q8",
+        "type": "multiple-choice",
+        "text": "Choose the correct question.",
+        "options": [
+          "Was they at home?",
+          "Were they at home?",
+          "Did they was at home?"
+        ],
+        "correctAnswer": "Were they at home?"
+      },
+      {
+        "id": "g16q9",
+        "type": "fill-blank",
+        "text": "The weather ___ (be) terrible yesterday.",
+        "correctAnswer": [
+          "was"
+        ]
+      },
+      {
+        "id": "g16q10",
+        "type": "multiple-choice",
+        "text": "My parents ___ proud of me.",
+        "options": [
+          "was",
+          "were",
+          "is"
+        ],
+        "correctAnswer": "were"
+      }
+    ]
+  },
+  {
+    "day_number": 17,
+    "title": "Past Simple: Regular Verbs",
+    "explanation": "Regular verbs form the past simple by adding -ed to the base form: work -> worked, play -> played.\n\nIf the verb ends in -e, just add -d: live -> lived, like -> liked.\n\nIf the verb ends in consonant + y, change y to i and add -ed: study -> studied.\n\nShort verbs ending in one vowel + one consonant double the last letter: stop -> stopped.\n\nThe Past Simple form is the same for all subjects: I worked, you worked, he worked, they worked.",
+    "examples": [
+      {
+        "sentence": "I worked late yesterday.",
+        "note": "work -> worked"
+      },
+      {
+        "sentence": "She lived in London for two years.",
+        "note": "live -> lived"
+      },
+      {
+        "sentence": "He studied hard for the exam.",
+        "note": "study -> studied"
+      },
+      {
+        "sentence": "They stopped at the red light.",
+        "note": "stop -> stopped (double letter)"
+      },
+      {
+        "sentence": "We played football last Sunday.",
+        "note": "play -> played"
+      }
+    ],
+    "questions": [
+      {
+        "id": "g17q1",
+        "type": "fill-blank",
+        "text": "I ___ (watch) a movie last night.",
+        "correctAnswer": [
+          "watched"
+        ]
+      },
+      {
+        "id": "g17q2",
+        "type": "fill-blank",
+        "text": "She ___ (study) for three hours yesterday.",
+        "correctAnswer": [
+          "studied"
+        ]
+      },
+      {
+        "id": "g17q3",
+        "type": "fill-blank",
+        "text": "They ___ (play) tennis last weekend.",
+        "correctAnswer": [
+          "played"
+        ]
+      },
+      {
+        "id": "g17q4",
+        "type": "multiple-choice",
+        "text": "What is the past form of 'stop'?",
+        "options": [
+          "stoped",
+          "stopped",
+          "stopd"
+        ],
+        "correctAnswer": "stopped"
+      },
+      {
+        "id": "g17q5",
+        "type": "multiple-choice",
+        "text": "What is the past form of 'live'?",
+        "options": [
+          "lived",
+          "liveed",
+          "livd"
+        ],
+        "correctAnswer": "lived"
+      },
+      {
+        "id": "g17q6",
+        "type": "fill-blank",
+        "text": "We ___ (visit) our grandparents last month.",
+        "correctAnswer": [
+          "visited"
+        ]
+      },
+      {
+        "id": "g17q7",
+        "type": "fill-blank",
+        "text": "He ___ (clean) his room yesterday.",
+        "correctAnswer": [
+          "cleaned"
+        ]
+      },
+      {
+        "id": "g17q8",
+        "type": "multiple-choice",
+        "text": "What is the past form of 'carry'?",
+        "options": [
+          "carryed",
+          "carried",
+          "carrys"
+        ],
+        "correctAnswer": "carried"
+      },
+      {
+        "id": "g17q9",
+        "type": "fill-blank",
+        "text": "She ___ (open) the window because it was hot.",
+        "correctAnswer": [
+          "opened"
+        ]
+      },
+      {
+        "id": "g17q10",
+        "type": "fill-blank",
+        "text": "I ___ (finish) my homework before dinner.",
+        "correctAnswer": [
+          "finished"
+        ]
+      }
+    ]
+  },
+  {
+    "day_number": 18,
+    "title": "Past Simple: Irregular Verbs",
+    "explanation": "Many common English verbs don't follow the -ed rule. These are called irregular verbs, and their past forms must be memorized.\n\nSome common examples: go -> went, have -> had, do -> did, see -> saw, eat -> ate, make -> made, take -> took, come -> came, write -> wrote, read -> read (same spelling, different pronunciation).\n\nLike regular verbs, the irregular past form is the same for all subjects: I went, she went, they went.",
+    "examples": [
+      {
+        "sentence": "I went to the market yesterday.",
+        "note": "go -> went"
+      },
+      {
+        "sentence": "She had a great time at the party.",
+        "note": "have -> had"
+      },
+      {
+        "sentence": "We saw a beautiful sunset.",
+        "note": "see -> saw"
+      },
+      {
+        "sentence": "He made a delicious cake.",
+        "note": "make -> made"
+      },
+      {
+        "sentence": "They came home late last night.",
+        "note": "come -> came"
+      }
+    ],
+    "questions": [
+      {
+        "id": "g18q1",
+        "type": "fill-blank",
+        "text": "I ___ (go) to the cinema yesterday.",
+        "correctAnswer": [
+          "went"
+        ]
+      },
+      {
+        "id": "g18q2",
+        "type": "fill-blank",
+        "text": "She ___ (eat) breakfast at seven.",
+        "correctAnswer": [
+          "ate"
+        ]
+      },
+      {
+        "id": "g18q3",
+        "type": "fill-blank",
+        "text": "We ___ (have) a meeting this morning.",
+        "correctAnswer": [
+          "had"
+        ]
+      },
+      {
+        "id": "g18q4",
+        "type": "multiple-choice",
+        "text": "What is the past form of 'see'?",
+        "options": [
+          "seed",
+          "saw",
+          "seen"
+        ],
+        "correctAnswer": "saw"
+      },
+      {
+        "id": "g18q5",
+        "type": "multiple-choice",
+        "text": "What is the past form of 'write'?",
+        "options": [
+          "writed",
+          "wrote",
+          "writen"
+        ],
+        "correctAnswer": "wrote"
+      },
+      {
+        "id": "g18q6",
+        "type": "fill-blank",
+        "text": "He ___ (take) the bus to school.",
+        "correctAnswer": [
+          "took"
+        ]
+      },
+      {
+        "id": "g18q7",
+        "type": "fill-blank",
+        "text": "They ___ (do) their homework together.",
+        "correctAnswer": [
+          "did"
+        ]
+      },
+      {
+        "id": "g18q8",
+        "type": "multiple-choice",
+        "text": "What is the past form of 'make'?",
+        "options": [
+          "maked",
+          "made",
+          "maded"
+        ],
+        "correctAnswer": "made"
+      },
+      {
+        "id": "g18q9",
+        "type": "fill-blank",
+        "text": "I ___ (come) home at six yesterday.",
+        "correctAnswer": [
+          "came"
+        ]
+      },
+      {
+        "id": "g18q10",
+        "type": "multiple-choice",
+        "text": "What is the past form of 'go'?",
+        "options": [
+          "goed",
+          "went",
+          "gone"
+        ],
+        "correctAnswer": "went"
+      }
+    ]
+  },
+  {
+    "day_number": 19,
+    "title": "Past Simple: Negative and Questions",
+    "explanation": "To make a negative sentence in the Past Simple, we use 'did not' (didn't) before the base form of the verb - for both regular and irregular verbs.\n\nI didn't go. She didn't work. They didn't see it.\n\nTo make a question, we put 'Did' at the beginning: Did you go? Did she work?\n\nImportant: after didn't and Did, the verb is always in its base form - never the past form. We say 'Did you go?', NOT 'Did you went?'.",
+    "examples": [
+      {
+        "sentence": "I didn't go to the party.",
+        "note": "didn't + base form"
+      },
+      {
+        "sentence": "She didn't finish her homework.",
+        "note": "didn't + base form"
+      },
+      {
+        "sentence": "Did you see that movie?",
+        "note": "Did + base form"
+      },
+      {
+        "sentence": "Did they come to the meeting?",
+        "note": "Did + base form"
+      },
+      {
+        "sentence": "We didn't have time yesterday.",
+        "note": "didn't + base form"
+      }
+    ],
+    "questions": [
+      {
+        "id": "g19q1",
+        "type": "fill-blank",
+        "text": "I ___ (not go) to school yesterday.",
+        "correctAnswer": [
+          "didn't go",
+          "did not go"
+        ]
+      },
+      {
+        "id": "g19q2",
+        "type": "multiple-choice",
+        "text": "___ you see Maria yesterday?",
+        "options": [
+          "Do",
+          "Did",
+          "Were"
+        ],
+        "correctAnswer": "Did"
+      },
+      {
+        "id": "g19q3",
+        "type": "multiple-choice",
+        "text": "Choose the correct question.",
+        "options": [
+          "Did she went home?",
+          "Did she go home?",
+          "Did she goes home?"
+        ],
+        "correctAnswer": "Did she go home?"
+      },
+      {
+        "id": "g19q4",
+        "type": "fill-blank",
+        "text": "He ___ (not eat) breakfast this morning.",
+        "correctAnswer": [
+          "didn't eat",
+          "did not eat"
+        ]
+      },
+      {
+        "id": "g19q5",
+        "type": "fill-blank",
+        "text": "They ___ (not come) to the party last night.",
+        "correctAnswer": [
+          "didn't come",
+          "did not come"
+        ]
+      },
+      {
+        "id": "g19q6",
+        "type": "multiple-choice",
+        "text": "___ they finish the project on time?",
+        "options": [
+          "Do",
+          "Did",
+          "Does"
+        ],
+        "correctAnswer": "Did"
+      },
+      {
+        "id": "g19q7",
+        "type": "fill-blank",
+        "text": "We ___ (not have) enough money.",
+        "correctAnswer": [
+          "didn't have",
+          "did not have"
+        ]
+      },
+      {
+        "id": "g19q8",
+        "type": "multiple-choice",
+        "text": "Choose the correct negative sentence.",
+        "options": [
+          "She didn't went there.",
+          "She didn't go there.",
+          "She not went there."
+        ],
+        "correctAnswer": "She didn't go there."
+      },
+      {
+        "id": "g19q9",
+        "type": "fill-blank",
+        "text": "___ you study for the test? (question)",
+        "correctAnswer": [
+          "Did"
+        ]
+      },
+      {
+        "id": "g19q10",
+        "type": "fill-blank",
+        "text": "I ___ (not understand) the lesson yesterday.",
+        "correctAnswer": [
+          "didn't understand",
+          "did not understand"
+        ]
+      }
+    ]
+  },
+  {
+    "day_number": 20,
+    "title": "Past Continuous (was/were + -ing)",
+    "explanation": "We use the Past Continuous for actions that were in progress at a specific time in the past.\n\nForm: was/were + verb-ing. I was working, they were sleeping.\n\nWe often use the Past Continuous with the Past Simple to show that one action interrupted another: I was watching TV when the phone rang.\n\nWe also use it to describe the background or scene of a story: It was raining, and people were walking quickly.",
+    "examples": [
+      {
+        "sentence": "I was sleeping when you called.",
+        "note": "background action + interruption"
+      },
+      {
+        "sentence": "She was cooking dinner at 7 pm.",
+        "note": "action in progress at a specific time"
+      },
+      {
+        "sentence": "They were watching a movie last night.",
+        "note": "ongoing past action"
+      },
+      {
+        "sentence": "It was raining when we left the house.",
+        "note": "scene description"
+      },
+      {
+        "sentence": "What were you doing yesterday at noon?",
+        "note": "question"
+      }
+    ],
+    "questions": [
+      {
+        "id": "g20q1",
+        "type": "fill-blank",
+        "text": "I ___ (sleep) when the phone rang.",
+        "correctAnswer": [
+          "was sleeping"
+        ]
+      },
+      {
+        "id": "g20q2",
+        "type": "fill-blank",
+        "text": "They ___ (play) football when it started to rain.",
+        "correctAnswer": [
+          "were playing"
+        ]
+      },
+      {
+        "id": "g20q3",
+        "type": "multiple-choice",
+        "text": "She ___ (cook) dinner at 6 pm yesterday.",
+        "options": [
+          "cooked",
+          "was cooking",
+          "cooks"
+        ],
+        "correctAnswer": "was cooking"
+      },
+      {
+        "id": "g20q4",
+        "type": "fill-blank",
+        "text": "We ___ (watch) TV when you arrived.",
+        "correctAnswer": [
+          "were watching"
+        ]
+      },
+      {
+        "id": "g20q5",
+        "type": "multiple-choice",
+        "text": "What ___ you doing at 9 pm last night?",
+        "options": [
+          "was",
+          "were",
+          "did"
+        ],
+        "correctAnswer": "were"
+      },
+      {
+        "id": "g20q6",
+        "type": "fill-blank",
+        "text": "He ___ (not listen) when I explained the rule.",
+        "correctAnswer": [
+          "wasn't listening",
+          "was not listening"
+        ]
+      },
+      {
+        "id": "g20q7",
+        "type": "multiple-choice",
+        "text": "Choose the correct sentence.",
+        "options": [
+          "It was raining when we left.",
+          "It rained when we were leaving.",
+          "It was rain when we left."
+        ],
+        "correctAnswer": "It was raining when we left."
+      },
+      {
+        "id": "g20q8",
+        "type": "fill-blank",
+        "text": "I ___ (read) a book when the lights went out.",
+        "correctAnswer": [
+          "was reading"
+        ]
+      },
+      {
+        "id": "g20q9",
+        "type": "multiple-choice",
+        "text": "___ they sleeping when you called?",
+        "options": [
+          "Was",
+          "Were",
+          "Did"
+        ],
+        "correctAnswer": "Were"
+      },
+      {
+        "id": "g20q10",
+        "type": "fill-blank",
+        "text": "She ___ (walk) home when she saw an old friend.",
+        "correctAnswer": [
+          "was walking"
+        ]
+      }
+    ]
+  },
+  {
+    "day_number": 21,
+    "title": "Prepositions of Time (in, on, at)",
+    "explanation": "Prepositions of time tell us when something happens.\n\n'In' is used for months, years, seasons, and longer periods: in May, in 2020, in summer, in the morning.\n\n'On' is used for specific days and dates: on Monday, on my birthday, on 5th May.\n\n'At' is used for specific times and certain fixed expressions: at 7 o'clock, at night, at the weekend, at Christmas.",
+    "examples": [
+      {
+        "sentence": "I was born in 2005.",
+        "note": "in + year"
+      },
+      {
+        "sentence": "We have class on Mondays.",
+        "note": "on + day"
+      },
+      {
+        "sentence": "The meeting starts at 9 o'clock.",
+        "note": "at + clock time"
+      },
+      {
+        "sentence": "She studies in the evening.",
+        "note": "in + part of day"
+      },
+      {
+        "sentence": "They go to the village at the weekend.",
+        "note": "at + the weekend"
+      }
+    ],
+    "questions": [
+      {
+        "id": "g21q1",
+        "type": "multiple-choice",
+        "text": "My birthday is ___ June.",
+        "options": [
+          "in",
+          "on",
+          "at"
+        ],
+        "correctAnswer": "in"
+      },
+      {
+        "id": "g21q2",
+        "type": "multiple-choice",
+        "text": "We meet ___ Fridays.",
+        "options": [
+          "in",
+          "on",
+          "at"
+        ],
+        "correctAnswer": "on"
+      },
+      {
+        "id": "g21q3",
+        "type": "multiple-choice",
+        "text": "The film starts ___ 8 pm.",
+        "options": [
+          "in",
+          "on",
+          "at"
+        ],
+        "correctAnswer": "at"
+      },
+      {
+        "id": "g21q4",
+        "type": "fill-blank",
+        "text": "I usually study ___ the morning.",
+        "correctAnswer": [
+          "in"
+        ]
+      },
+      {
+        "id": "g21q5",
+        "type": "fill-blank",
+        "text": "She was born ___ 2002.",
+        "correctAnswer": [
+          "in"
+        ]
+      },
+      {
+        "id": "g21q6",
+        "type": "multiple-choice",
+        "text": "We don't have school ___ the weekend.",
+        "options": [
+          "in",
+          "on",
+          "at"
+        ],
+        "correctAnswer": "at"
+      },
+      {
+        "id": "g21q7",
+        "type": "fill-blank",
+        "text": "The shop closes ___ midnight.",
+        "correctAnswer": [
+          "at"
+        ]
+      },
+      {
+        "id": "g21q8",
+        "type": "multiple-choice",
+        "text": "I will see you ___ Sunday.",
+        "options": [
+          "in",
+          "on",
+          "at"
+        ],
+        "correctAnswer": "on"
+      },
+      {
+        "id": "g21q9",
+        "type": "fill-blank",
+        "text": "It often snows ___ winter.",
+        "correctAnswer": [
+          "in"
+        ]
+      },
+      {
+        "id": "g21q10",
+        "type": "multiple-choice",
+        "text": "We celebrate ___ Christmas every year.",
+        "options": [
+          "in",
+          "on",
+          "at"
+        ],
+        "correctAnswer": "at"
+      }
+    ]
+  },
+  {
+    "day_number": 22,
+    "title": "Adverbs of Manner (quickly, well, carefully, slowly)",
+    "explanation": "Adverbs of manner describe how an action happens. They often answer the question 'How?'\n\nMost adverbs of manner are formed by adding -ly to an adjective: quick -> quickly, slow -> slowly, careful -> carefully.\n\nSome adverbs are irregular: good -> well, fast -> fast (no change).\n\nAdverbs of manner usually come after the verb, or after the object if there is one: She speaks English fluently. He drives carefully.",
+    "examples": [
+      {
+        "sentence": "She speaks English fluently.",
+        "note": "fluent -> fluently"
+      },
+      {
+        "sentence": "He drives very carefully.",
+        "note": "careful -> carefully"
+      },
+      {
+        "sentence": "They walked slowly through the park.",
+        "note": "slow -> slowly"
+      },
+      {
+        "sentence": "My sister sings well.",
+        "note": "good -> well (irregular)"
+      },
+      {
+        "sentence": "He runs fast.",
+        "note": "fast stays the same"
+      }
+    ],
+    "questions": [
+      {
+        "id": "g22q1",
+        "type": "fill-blank",
+        "text": "She walks ___ (quick).",
+        "correctAnswer": [
+          "quickly"
+        ]
+      },
+      {
+        "id": "g22q2",
+        "type": "fill-blank",
+        "text": "He plays the piano very ___ (good).",
+        "correctAnswer": [
+          "well"
+        ]
+      },
+      {
+        "id": "g22q3",
+        "type": "multiple-choice",
+        "text": "What is the adverb form of 'careful'?",
+        "options": [
+          "carefuly",
+          "carefully",
+          "carefulley"
+        ],
+        "correctAnswer": "carefully"
+      },
+      {
+        "id": "g22q4",
+        "type": "fill-blank",
+        "text": "Please speak ___ (slow), I don't understand.",
+        "correctAnswer": [
+          "slowly"
+        ]
+      },
+      {
+        "id": "g22q5",
+        "type": "multiple-choice",
+        "text": "He answered the question ___.",
+        "options": [
+          "correct",
+          "correctly",
+          "correctness"
+        ],
+        "correctAnswer": "correctly"
+      },
+      {
+        "id": "g22q6",
+        "type": "fill-blank",
+        "text": "She did her homework ___ (quiet).",
+        "correctAnswer": [
+          "quietly"
+        ]
+      },
+      {
+        "id": "g22q7",
+        "type": "multiple-choice",
+        "text": "Choose the correct sentence.",
+        "options": [
+          "He runs very fastly.",
+          "He runs very fast.",
+          "He runs very fasted."
+        ],
+        "correctAnswer": "He runs very fast."
+      },
+      {
+        "id": "g22q8",
+        "type": "fill-blank",
+        "text": "They worked ___ (hard) all day.",
+        "correctAnswer": [
+          "hard"
+        ]
+      },
+      {
+        "id": "g22q9",
+        "type": "multiple-choice",
+        "text": "She sings ___.",
+        "options": [
+          "beautiful",
+          "beautifully",
+          "beauty"
+        ],
+        "correctAnswer": "beautifully"
+      },
+      {
+        "id": "g22q10",
+        "type": "fill-blank",
+        "text": "He passed the exam ___ (easy).",
+        "correctAnswer": [
+          "easily"
+        ]
+      }
+    ]
+  },
+  {
+    "day_number": 23,
+    "title": "Comparative Adjectives (bigger, more interesting)",
+    "explanation": "We use comparative adjectives to compare two things.\n\nShort adjectives (one syllable) add -er: tall -> taller, big -> bigger (double the consonant).\n\nAdjectives ending in -y change y to i and add -er: happy -> happier.\n\nLonger adjectives (two or more syllables) use 'more' + adjective: more interesting, more beautiful.\n\nWe use 'than' to compare two things: She is taller than her brother.\n\nSome adjectives are irregular: good -> better, bad -> worse, far -> farther/further.",
+    "examples": [
+      {
+        "sentence": "My brother is taller than me.",
+        "note": "tall -> taller"
+      },
+      {
+        "sentence": "This book is more interesting than that one.",
+        "note": "long adjective + more"
+      },
+      {
+        "sentence": "Today is hotter than yesterday.",
+        "note": "hot -> hotter (double letter)"
+      },
+      {
+        "sentence": "She is happier than before.",
+        "note": "happy -> happier"
+      },
+      {
+        "sentence": "This test was worse than the last one.",
+        "note": "bad -> worse (irregular)"
+      }
+    ],
+    "questions": [
+      {
+        "id": "g23q1",
+        "type": "fill-blank",
+        "text": "This box is ___ (big) than that one.",
+        "correctAnswer": [
+          "bigger"
+        ]
+      },
+      {
+        "id": "g23q2",
+        "type": "fill-blank",
+        "text": "She is ___ (tall) than her sister.",
+        "correctAnswer": [
+          "taller"
+        ]
+      },
+      {
+        "id": "g23q3",
+        "type": "fill-blank",
+        "text": "This movie is ___ (interesting) than the last one.",
+        "correctAnswer": [
+          "more interesting"
+        ]
+      },
+      {
+        "id": "g23q4",
+        "type": "multiple-choice",
+        "text": "What is the comparative of 'good'?",
+        "options": [
+          "gooder",
+          "better",
+          "more good"
+        ],
+        "correctAnswer": "better"
+      },
+      {
+        "id": "g23q5",
+        "type": "multiple-choice",
+        "text": "What is the comparative of 'happy'?",
+        "options": [
+          "happyer",
+          "happier",
+          "more happy"
+        ],
+        "correctAnswer": "happier"
+      },
+      {
+        "id": "g23q6",
+        "type": "fill-blank",
+        "text": "Today is ___ (cold) than yesterday.",
+        "correctAnswer": [
+          "colder"
+        ]
+      },
+      {
+        "id": "g23q7",
+        "type": "fill-blank",
+        "text": "This phone is ___ (expensive) than mine.",
+        "correctAnswer": [
+          "more expensive"
+        ]
+      },
+      {
+        "id": "g23q8",
+        "type": "multiple-choice",
+        "text": "Choose the correct sentence.",
+        "options": [
+          "He is more tall than me.",
+          "He is taller than me.",
+          "He is more taller than me."
+        ],
+        "correctAnswer": "He is taller than me."
+      },
+      {
+        "id": "g23q9",
+        "type": "fill-blank",
+        "text": "My old car was ___ (bad) than my new one.",
+        "correctAnswer": [
+          "worse"
+        ]
+      },
+      {
+        "id": "g23q10",
+        "type": "fill-blank",
+        "text": "This city is ___ (big) than my hometown.",
+        "correctAnswer": [
+          "bigger"
+        ]
+      }
+    ]
+  },
+  {
+    "day_number": 24,
+    "title": "Superlative Adjectives (the biggest, the most interesting)",
+    "explanation": "We use superlative adjectives to compare three or more things, to say one is the extreme example.\n\nShort adjectives add -est: tall -> the tallest, big -> the biggest (double consonant).\n\nAdjectives ending in -y change y to i and add -est: happy -> the happiest.\n\nLonger adjectives use 'the most' + adjective: the most interesting, the most beautiful.\n\nWe always use 'the' before a superlative.\n\nIrregular forms: good -> the best, bad -> the worst, far -> the farthest/furthest.",
+    "examples": [
+      {
+        "sentence": "She is the tallest student in the class.",
+        "note": "tall -> the tallest"
+      },
+      {
+        "sentence": "This is the most beautiful place I've seen.",
+        "note": "long adjective + the most"
+      },
+      {
+        "sentence": "Today is the hottest day of the year.",
+        "note": "hot -> the hottest"
+      },
+      {
+        "sentence": "He is the best player on the team.",
+        "note": "good -> the best (irregular)"
+      },
+      {
+        "sentence": "That was the worst movie I've ever watched.",
+        "note": "bad -> the worst (irregular)"
+      }
+    ],
+    "questions": [
+      {
+        "id": "g24q1",
+        "type": "fill-blank",
+        "text": "She is the ___ (tall) girl in the class.",
+        "correctAnswer": [
+          "tallest"
+        ]
+      },
+      {
+        "id": "g24q2",
+        "type": "fill-blank",
+        "text": "This is the ___ (interesting) book I've read.",
+        "correctAnswer": [
+          "most interesting"
+        ]
+      },
+      {
+        "id": "g24q3",
+        "type": "multiple-choice",
+        "text": "What is the superlative of 'good'?",
+        "options": [
+          "the goodest",
+          "the best",
+          "the most good"
+        ],
+        "correctAnswer": "the best"
+      },
+      {
+        "id": "g24q4",
+        "type": "fill-blank",
+        "text": "Everest is the ___ (high) mountain in the world.",
+        "correctAnswer": [
+          "highest"
+        ]
+      },
+      {
+        "id": "g24q5",
+        "type": "multiple-choice",
+        "text": "What is the superlative of 'bad'?",
+        "options": [
+          "the baddest",
+          "the worst",
+          "the most bad"
+        ],
+        "correctAnswer": "the worst"
+      },
+      {
+        "id": "g24q6",
+        "type": "fill-blank",
+        "text": "This is the ___ (expensive) restaurant in the city.",
+        "correctAnswer": [
+          "most expensive"
+        ]
+      },
+      {
+        "id": "g24q7",
+        "type": "multiple-choice",
+        "text": "Choose the correct sentence.",
+        "options": [
+          "He is the most tall in his family.",
+          "He is the tallest in his family.",
+          "He is most tallest in his family."
+        ],
+        "correctAnswer": "He is the tallest in his family."
+      },
+      {
+        "id": "g24q8",
+        "type": "fill-blank",
+        "text": "January is the ___ (cold) month of the year here.",
+        "correctAnswer": [
+          "coldest"
+        ]
+      },
+      {
+        "id": "g24q9",
+        "type": "fill-blank",
+        "text": "She is the ___ (happy) person I know.",
+        "correctAnswer": [
+          "happiest"
+        ]
+      },
+      {
+        "id": "g24q10",
+        "type": "multiple-choice",
+        "text": "This was the ___ exam of the year.",
+        "options": [
+          "difficultest",
+          "most difficult",
+          "more difficult"
+        ],
+        "correctAnswer": "most difficult"
+      }
+    ]
+  },
+  {
+    "day_number": 25,
+    "title": "Future: going to",
+    "explanation": "We use 'going to' to talk about plans and intentions for the future - things we have already decided to do.\n\nForm: am/is/are + going to + base verb. I am going to study tonight. She is going to visit her parents.\n\nWe also use 'going to' to make predictions based on what we can see now: Look at those clouds! It's going to rain.\n\nNegative: am/is/are + not + going to. Question: Am/Is/Are + subject + going to...?",
+    "examples": [
+      {
+        "sentence": "I am going to start a new job next month.",
+        "note": "plan/intention"
+      },
+      {
+        "sentence": "She is going to study medicine.",
+        "note": "plan/intention"
+      },
+      {
+        "sentence": "Look at the sky! It's going to rain.",
+        "note": "prediction based on evidence"
+      },
+      {
+        "sentence": "We are not going to travel this summer.",
+        "note": "negative"
+      },
+      {
+        "sentence": "Are you going to come to the party?",
+        "note": "question"
+      }
+    ],
+    "questions": [
+      {
+        "id": "g25q1",
+        "type": "fill-blank",
+        "text": "I ___ (going to / study) tonight.",
+        "correctAnswer": [
+          "am going to study"
+        ]
+      },
+      {
+        "id": "g25q2",
+        "type": "fill-blank",
+        "text": "She ___ (going to / visit) her grandmother tomorrow.",
+        "correctAnswer": [
+          "is going to visit"
+        ]
+      },
+      {
+        "id": "g25q3",
+        "type": "multiple-choice",
+        "text": "Look at those dark clouds! It ___ rain.",
+        "options": [
+          "is going to",
+          "are going to",
+          "go to"
+        ],
+        "correctAnswer": "is going to"
+      },
+      {
+        "id": "g25q4",
+        "type": "fill-blank",
+        "text": "We ___ (going to / travel) to Samarkand next week.",
+        "correctAnswer": [
+          "are going to travel"
+        ]
+      },
+      {
+        "id": "g25q5",
+        "type": "multiple-choice",
+        "text": "___ you going to attend the meeting?",
+        "options": [
+          "Is",
+          "Are",
+          "Do"
+        ],
+        "correctAnswer": "Are"
+      },
+      {
+        "id": "g25q6",
+        "type": "fill-blank",
+        "text": "He ___ (not / going to / come) to the party.",
+        "correctAnswer": [
+          "is not going to come",
+          "isn't going to come"
+        ]
+      },
+      {
+        "id": "g25q7",
+        "type": "multiple-choice",
+        "text": "Choose the correct sentence.",
+        "options": [
+          "I going to study.",
+          "I am going to study.",
+          "I am go to study."
+        ],
+        "correctAnswer": "I am going to study."
+      },
+      {
+        "id": "g25q8",
+        "type": "fill-blank",
+        "text": "They ___ (going to / build) a new house.",
+        "correctAnswer": [
+          "are going to build"
+        ]
+      },
+      {
+        "id": "g25q9",
+        "type": "multiple-choice",
+        "text": "What ___ you going to do this weekend?",
+        "options": [
+          "is",
+          "are",
+          "do"
+        ],
+        "correctAnswer": "are"
+      },
+      {
+        "id": "g25q10",
+        "type": "fill-blank",
+        "text": "She ___ (going to / be) a doctor in the future.",
+        "correctAnswer": [
+          "is going to be"
+        ]
+      }
+    ]
+  },
+  {
+    "day_number": 26,
+    "title": "Future: will",
+    "explanation": "We use 'will' for predictions, promises, offers, and decisions made at the moment of speaking.\n\nForm: will + base verb (the same for all subjects). I will help you. She will call later.\n\nNegative: will not (won't). I won't be late.\n\nQuestion: Will + subject + verb? Will you come to the meeting?\n\nWe often use 'will' with words like: probably, I think, I'm sure, tomorrow, next year.",
+    "examples": [
+      {
+        "sentence": "I think it will rain tomorrow.",
+        "note": "prediction"
+      },
+      {
+        "sentence": "I will help you with your homework.",
+        "note": "offer/promise"
+      },
+      {
+        "sentence": "She won't be at the meeting today.",
+        "note": "negative"
+      },
+      {
+        "sentence": "Will you call me later?",
+        "note": "question"
+      },
+      {
+        "sentence": "I'm sure they will enjoy the trip.",
+        "note": "prediction with I'm sure"
+      }
+    ],
+    "questions": [
+      {
+        "id": "g26q1",
+        "type": "fill-blank",
+        "text": "I think she ___ (will) like this gift.",
+        "correctAnswer": [
+          "will"
+        ]
+      },
+      {
+        "id": "g26q2",
+        "type": "fill-blank",
+        "text": "He ___ (will, negative) be at school tomorrow.",
+        "correctAnswer": [
+          "won't",
+          "will not"
+        ]
+      },
+      {
+        "id": "g26q3",
+        "type": "multiple-choice",
+        "text": "___ you help me with this bag?",
+        "options": [
+          "Will",
+          "Are",
+          "Do"
+        ],
+        "correctAnswer": "Will"
+      },
+      {
+        "id": "g26q4",
+        "type": "fill-blank",
+        "text": "We ___ (will) probably arrive late.",
+        "correctAnswer": [
+          "will"
+        ]
+      },
+      {
+        "id": "g26q5",
+        "type": "multiple-choice",
+        "text": "Choose the correct sentence.",
+        "options": [
+          "She wills come tomorrow.",
+          "She will comes tomorrow.",
+          "She will come tomorrow."
+        ],
+        "correctAnswer": "She will come tomorrow."
+      },
+      {
+        "id": "g26q6",
+        "type": "fill-blank",
+        "text": "I'm sure they ___ (will) win the match.",
+        "correctAnswer": [
+          "will"
+        ]
+      },
+      {
+        "id": "g26q7",
+        "type": "multiple-choice",
+        "text": "___ it be sunny tomorrow?",
+        "options": [
+          "Will",
+          "Is",
+          "Does"
+        ],
+        "correctAnswer": "Will"
+      },
+      {
+        "id": "g26q8",
+        "type": "fill-blank",
+        "text": "Don't worry, I ___ (will) be there on time.",
+        "correctAnswer": [
+          "will"
+        ]
+      },
+      {
+        "id": "g26q9",
+        "type": "multiple-choice",
+        "text": "Choose the correct negative form.",
+        "options": [
+          "I willn't go.",
+          "I won't go.",
+          "I will not goes."
+        ],
+        "correctAnswer": "I won't go."
+      },
+      {
+        "id": "g26q10",
+        "type": "fill-blank",
+        "text": "They ___ (will) probably move to a new city next year.",
+        "correctAnswer": [
+          "will"
+        ]
+      }
+    ]
+  },
+  {
+    "day_number": 27,
+    "title": "Modals: must / should",
+    "explanation": "'Must' expresses strong obligation or necessity - something is required: You must wear a seatbelt.\n\n'Mustn't' (must not) expresses prohibition - something is not allowed: You mustn't smoke here.\n\n'Should' expresses advice or recommendation - something is a good idea, but not required: You should drink more water.\n\n'Shouldn't' (should not) expresses that something is not a good idea.\n\nBoth must and should are followed by the base form of the verb, without 'to'.",
+    "examples": [
+      {
+        "sentence": "You must wear a seatbelt in the car.",
+        "note": "strong obligation"
+      },
+      {
+        "sentence": "You mustn't smoke in the hospital.",
+        "note": "prohibition"
+      },
+      {
+        "sentence": "You should study more for the exam.",
+        "note": "advice"
+      },
+      {
+        "sentence": "She shouldn't eat so much sugar.",
+        "note": "advice against"
+      },
+      {
+        "sentence": "Students must arrive on time.",
+        "note": "rule/obligation"
+      }
+    ],
+    "questions": [
+      {
+        "id": "g27q1",
+        "type": "multiple-choice",
+        "text": "You ___ wear a helmet when riding a motorcycle. (rule)",
+        "options": [
+          "must",
+          "should",
+          "can"
+        ],
+        "correctAnswer": "must"
+      },
+      {
+        "id": "g27q2",
+        "type": "multiple-choice",
+        "text": "You ___ see a doctor if you feel sick. (advice)",
+        "options": [
+          "must",
+          "should",
+          "mustn't"
+        ],
+        "correctAnswer": "should"
+      },
+      {
+        "id": "g27q3",
+        "type": "fill-blank",
+        "text": "You ___ (mustn't) park here. It's forbidden.",
+        "correctAnswer": [
+          "mustn't",
+          "must not"
+        ]
+      },
+      {
+        "id": "g27q4",
+        "type": "multiple-choice",
+        "text": "Choose the correct sentence.",
+        "options": [
+          "You must to go now.",
+          "You must goes now.",
+          "You must go now."
+        ],
+        "correctAnswer": "You must go now."
+      },
+      {
+        "id": "g27q5",
+        "type": "fill-blank",
+        "text": "We ___ (should) eat more vegetables.",
+        "correctAnswer": [
+          "should"
+        ]
+      },
+      {
+        "id": "g27q6",
+        "type": "multiple-choice",
+        "text": "Students ___ bring their ID card to the exam. (rule)",
+        "options": [
+          "must",
+          "should",
+          "could"
+        ],
+        "correctAnswer": "must"
+      },
+      {
+        "id": "g27q7",
+        "type": "fill-blank",
+        "text": "You ___ (shouldn't) stay up so late.",
+        "correctAnswer": [
+          "shouldn't",
+          "should not"
+        ]
+      },
+      {
+        "id": "g27q8",
+        "type": "multiple-choice",
+        "text": "Choose the sentence with strong prohibition.",
+        "options": [
+          "You shouldn't run here.",
+          "You mustn't run here.",
+          "You can't run here, maybe."
+        ],
+        "correctAnswer": "You mustn't run here."
+      },
+      {
+        "id": "g27q9",
+        "type": "fill-blank",
+        "text": "I think you ___ (should) apologize to her.",
+        "correctAnswer": [
+          "should"
+        ]
+      },
+      {
+        "id": "g27q10",
+        "type": "multiple-choice",
+        "text": "All passengers ___ fasten their seatbelt. (rule)",
+        "options": [
+          "must",
+          "should",
+          "would"
+        ],
+        "correctAnswer": "must"
+      }
+    ]
+  },
+  {
+    "day_number": 28,
+    "title": "Object Pronouns (me, you, him, her, it, us, them)",
+    "explanation": "Object pronouns replace a noun that receives the action of the verb (the object of the sentence).\n\nSubject -> Object: I -> me, you -> you, he -> him, she -> her, it -> it, we -> us, they -> them.\n\nObject pronouns come after the verb, or after a preposition.\n\nCompare: 'He loves her' (her = object, receives the action) with 'She loves him' (she = subject, him = object).",
+    "examples": [
+      {
+        "sentence": "She called me yesterday.",
+        "note": "me = object of called"
+      },
+      {
+        "sentence": "I saw him at the market.",
+        "note": "him = object of saw"
+      },
+      {
+        "sentence": "Can you help us, please?",
+        "note": "us = object of help"
+      },
+      {
+        "sentence": "I gave the book to her.",
+        "note": "her = object after preposition 'to'"
+      },
+      {
+        "sentence": "We invited them to the party.",
+        "note": "them = object of invited"
+      }
+    ],
+    "questions": [
+      {
+        "id": "g28q1",
+        "type": "multiple-choice",
+        "text": "Can you help ___? (me)",
+        "options": [
+          "I",
+          "me",
+          "my"
+        ],
+        "correctAnswer": "me"
+      },
+      {
+        "id": "g28q2",
+        "type": "multiple-choice",
+        "text": "I saw ___ at the cinema. (he)",
+        "options": [
+          "he",
+          "him",
+          "his"
+        ],
+        "correctAnswer": "him"
+      },
+      {
+        "id": "g28q3",
+        "type": "fill-blank",
+        "text": "She gave the keys to ___. (I)",
+        "correctAnswer": [
+          "me"
+        ]
+      },
+      {
+        "id": "g28q4",
+        "type": "multiple-choice",
+        "text": "We invited ___ to dinner. (they)",
+        "options": [
+          "they",
+          "them",
+          "their"
+        ],
+        "correctAnswer": "them"
+      },
+      {
+        "id": "g28q5",
+        "type": "fill-blank",
+        "text": "Please call ___ tonight. (we)",
+        "correctAnswer": [
+          "us"
+        ]
+      },
+      {
+        "id": "g28q6",
+        "type": "multiple-choice",
+        "text": "I bought a gift for ___. (she)",
+        "options": [
+          "she",
+          "her",
+          "hers"
+        ],
+        "correctAnswer": "her"
+      },
+      {
+        "id": "g28q7",
+        "type": "fill-blank",
+        "text": "Can you give this letter to ___? (he)",
+        "correctAnswer": [
+          "him"
+        ]
+      },
+      {
+        "id": "g28q8",
+        "type": "multiple-choice",
+        "text": "Choose the correct sentence.",
+        "options": [
+          "He loves she.",
+          "He loves her.",
+          "He loves hers."
+        ],
+        "correctAnswer": "He loves her."
+      },
+      {
+        "id": "g28q9",
+        "type": "fill-blank",
+        "text": "The teacher helped ___ with the homework. (they)",
+        "correctAnswer": [
+          "them"
+        ]
+      },
+      {
+        "id": "g28q10",
+        "type": "multiple-choice",
+        "text": "Look at that cat. Do you see ___?",
+        "options": [
+          "it",
+          "its",
+          "they"
+        ],
+        "correctAnswer": "it"
+      }
+    ]
+  },
+  {
+    "day_number": 29,
+    "title": "Conjunctions: and, but, because, so",
+    "explanation": "Conjunctions connect words, phrases, or sentences.\n\n'And' adds information: I like tea and coffee.\n\n'But' shows contrast: I like tea, but I don't like coffee.\n\n'Because' gives a reason: I stayed home because I was sick.\n\n'So' shows a result: I was tired, so I went to bed early.\n\nNote the difference between 'because' (gives the reason) and 'so' (gives the result): I was sick, so I stayed home = I stayed home because I was sick.",
+    "examples": [
+      {
+        "sentence": "She likes apples and oranges.",
+        "note": "and = adds information"
+      },
+      {
+        "sentence": "He is tired, but he wants to finish the work.",
+        "note": "but = contrast"
+      },
+      {
+        "sentence": "I didn't go out because it was raining.",
+        "note": "because = reason"
+      },
+      {
+        "sentence": "It was raining, so I didn't go out.",
+        "note": "so = result"
+      },
+      {
+        "sentence": "She studied hard, so she passed the exam.",
+        "note": "so = result"
+      }
+    ],
+    "questions": [
+      {
+        "id": "g29q1",
+        "type": "multiple-choice",
+        "text": "I like rice ___ noodles.",
+        "options": [
+          "and",
+          "but",
+          "because"
+        ],
+        "correctAnswer": "and"
+      },
+      {
+        "id": "g29q2",
+        "type": "multiple-choice",
+        "text": "She is rich, ___ she isn't happy.",
+        "options": [
+          "and",
+          "but",
+          "so"
+        ],
+        "correctAnswer": "but"
+      },
+      {
+        "id": "g29q3",
+        "type": "multiple-choice",
+        "text": "I was late ___ the bus didn't come.",
+        "options": [
+          "and",
+          "but",
+          "because"
+        ],
+        "correctAnswer": "because"
+      },
+      {
+        "id": "g29q4",
+        "type": "fill-blank",
+        "text": "It was cold, ___ I wore a jacket. (result)",
+        "correctAnswer": [
+          "so"
+        ]
+      },
+      {
+        "id": "g29q5",
+        "type": "multiple-choice",
+        "text": "He failed the exam ___ he didn't study.",
+        "options": [
+          "so",
+          "because",
+          "and"
+        ],
+        "correctAnswer": "because"
+      },
+      {
+        "id": "g29q6",
+        "type": "fill-blank",
+        "text": "She was hungry, ___ she ate a sandwich. (result)",
+        "correctAnswer": [
+          "so"
+        ]
+      },
+      {
+        "id": "g29q7",
+        "type": "multiple-choice",
+        "text": "I want to go, ___ I don't have time.",
+        "options": [
+          "and",
+          "but",
+          "because"
+        ],
+        "correctAnswer": "but"
+      },
+      {
+        "id": "g29q8",
+        "type": "fill-blank",
+        "text": "He likes football ___ basketball.",
+        "correctAnswer": [
+          "and"
+        ]
+      },
+      {
+        "id": "g29q9",
+        "type": "multiple-choice",
+        "text": "We stayed inside ___ it was raining heavily.",
+        "options": [
+          "so",
+          "because",
+          "but"
+        ],
+        "correctAnswer": "because"
+      },
+      {
+        "id": "g29q10",
+        "type": "fill-blank",
+        "text": "I was tired, ___ I went to bed early.",
+        "correctAnswer": [
+          "so"
+        ]
+      }
+    ]
+  },
+  {
+    "day_number": 30,
+    "title": "Quantifiers: some, any, much, many",
+    "explanation": "We use 'some' in affirmative sentences and offers/requests: I have some money. Would you like some tea?\n\nWe use 'any' in negative sentences and questions: I don't have any money. Do you have any questions?\n\nWe use 'much' with uncountable nouns (singular): How much time do we have? There isn't much sugar left.\n\nWe use 'many' with countable nouns (plural): How many books do you have? There aren't many people here.",
+    "examples": [
+      {
+        "sentence": "I have some friends in London.",
+        "note": "some + affirmative"
+      },
+      {
+        "sentence": "I don't have any brothers.",
+        "note": "any + negative"
+      },
+      {
+        "sentence": "Do you have any free time today?",
+        "note": "any + question"
+      },
+      {
+        "sentence": "There isn't much water in the bottle.",
+        "note": "much + uncountable"
+      },
+      {
+        "sentence": "How many languages do you speak?",
+        "note": "many + countable"
+      }
+    ],
+    "questions": [
+      {
+        "id": "g30q1",
+        "type": "multiple-choice",
+        "text": "I have ___ apples in my bag.",
+        "options": [
+          "some",
+          "any",
+          "much"
+        ],
+        "correctAnswer": "some"
+      },
+      {
+        "id": "g30q2",
+        "type": "multiple-choice",
+        "text": "I don't have ___ money right now.",
+        "options": [
+          "some",
+          "any",
+          "many"
+        ],
+        "correctAnswer": "any"
+      },
+      {
+        "id": "g30q3",
+        "type": "multiple-choice",
+        "text": "How ___ sugar do you want in your tea?",
+        "options": [
+          "much",
+          "many",
+          "some"
+        ],
+        "correctAnswer": "much"
+      },
+      {
+        "id": "g30q4",
+        "type": "multiple-choice",
+        "text": "How ___ books did you read this year?",
+        "options": [
+          "much",
+          "many",
+          "any"
+        ],
+        "correctAnswer": "many"
+      },
+      {
+        "id": "g30q5",
+        "type": "fill-blank",
+        "text": "Would you like ___ coffee? (offer)",
+        "correctAnswer": [
+          "some"
+        ]
+      },
+      {
+        "id": "g30q6",
+        "type": "fill-blank",
+        "text": "Do you have ___ questions? (question)",
+        "correctAnswer": [
+          "any"
+        ]
+      },
+      {
+        "id": "g30q7",
+        "type": "fill-blank",
+        "text": "There aren't ___ (many) chairs in the room.",
+        "correctAnswer": [
+          "many"
+        ]
+      },
+      {
+        "id": "g30q8",
+        "type": "multiple-choice",
+        "text": "Choose the correct sentence.",
+        "options": [
+          "I don't have some time.",
+          "I don't have any time.",
+          "I don't have many time."
+        ],
+        "correctAnswer": "I don't have any time."
+      },
+      {
+        "id": "g30q9",
+        "type": "fill-blank",
+        "text": "There isn't ___ (much) milk in the fridge.",
+        "correctAnswer": [
+          "much"
+        ]
+      },
+      {
+        "id": "g30q10",
+        "type": "multiple-choice",
+        "text": "She bought ___ new clothes for the trip.",
+        "options": [
+          "some",
+          "any",
+          "much"
+        ],
+        "correctAnswer": "some"
+      }
+    ]
+  }
+]

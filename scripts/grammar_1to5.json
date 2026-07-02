@@ -1,0 +1,641 @@
+[
+  {
+    "day_number": 1,
+    "title": "To Be (am / is / are)",
+    "explanation": "The verb 'to be' is one of the most important verbs in English. It has three forms in the present: am, is, and are.\n\nUse 'am' with I.\nUse 'is' with he, she, it, and singular nouns.\nUse 'are' with you, we, they, and plural nouns.\n\nTo make a negative sentence, add 'not' after the verb: am not, is not (isn't), are not (aren't).\n\nTo make a question, put the verb before the subject: Am I...? Is he...? Are you...?",
+    "examples": [
+      {
+        "sentence": "I am a student.",
+        "note": "I + am"
+      },
+      {
+        "sentence": "She is from Tashkent.",
+        "note": "She + is"
+      },
+      {
+        "sentence": "They are my friends.",
+        "note": "They + are"
+      },
+      {
+        "sentence": "He is not happy today.",
+        "note": "negative: is not = isn't"
+      },
+      {
+        "sentence": "Are you ready?",
+        "note": "question: Are + you"
+      }
+    ],
+    "questions": [
+      {
+        "id": "g1q1",
+        "type": "multiple-choice",
+        "text": "I ___ a teacher.",
+        "options": [
+          "am",
+          "is",
+          "are"
+        ],
+        "correctAnswer": "am"
+      },
+      {
+        "id": "g1q2",
+        "type": "multiple-choice",
+        "text": "She ___ my sister.",
+        "options": [
+          "am",
+          "is",
+          "are"
+        ],
+        "correctAnswer": "is"
+      },
+      {
+        "id": "g1q3",
+        "type": "multiple-choice",
+        "text": "We ___ from Uzbekistan.",
+        "options": [
+          "am",
+          "is",
+          "are"
+        ],
+        "correctAnswer": "are"
+      },
+      {
+        "id": "g1q4",
+        "type": "multiple-choice",
+        "text": "It ___ a nice day.",
+        "options": [
+          "am",
+          "is",
+          "are"
+        ],
+        "correctAnswer": "is"
+      },
+      {
+        "id": "g1q5",
+        "type": "fill-blank",
+        "text": "They ___ (be) at home now.",
+        "correctAnswer": [
+          "are"
+        ]
+      },
+      {
+        "id": "g1q6",
+        "type": "fill-blank",
+        "text": "He ___ (be, negative) at school today.",
+        "correctAnswer": [
+          "is not",
+          "isn't"
+        ]
+      },
+      {
+        "id": "g1q7",
+        "type": "multiple-choice",
+        "text": "Which question is correct?",
+        "options": [
+          "Is you ready?",
+          "Are you ready?",
+          "Am you ready?"
+        ],
+        "correctAnswer": "Are you ready?"
+      },
+      {
+        "id": "g1q8",
+        "type": "multiple-choice",
+        "text": "You ___ very kind.",
+        "options": [
+          "am",
+          "is",
+          "are"
+        ],
+        "correctAnswer": "are"
+      },
+      {
+        "id": "g1q9",
+        "type": "fill-blank",
+        "text": "I ___ not tired.",
+        "correctAnswer": [
+          "am"
+        ]
+      },
+      {
+        "id": "g1q10",
+        "type": "multiple-choice",
+        "text": "My parents ___ doctors.",
+        "options": [
+          "am",
+          "is",
+          "are"
+        ],
+        "correctAnswer": "are"
+      }
+    ]
+  },
+  {
+    "day_number": 2,
+    "title": "Personal Pronouns (I, you, he, she, it, we, they)",
+    "explanation": "Personal pronouns replace nouns so we don't repeat names. \n\nI = the speaker. You = the listener. He = a male person. She = a female person. It = a thing or animal. We = the speaker and others. They = other people or things.\n\nWe use these pronouns as the subject of a sentence, before the verb.",
+    "examples": [
+      {
+        "sentence": "John is tired. He wants to sleep.",
+        "note": "He replaces John"
+      },
+      {
+        "sentence": "Maria is my friend. She lives near me.",
+        "note": "She replaces Maria"
+      },
+      {
+        "sentence": "The book is on the table. It is blue.",
+        "note": "It replaces the book"
+      },
+      {
+        "sentence": "My brother and I are happy. We are happy.",
+        "note": "We replaces 'my brother and I'"
+      },
+      {
+        "sentence": "Tom and Anna are students. They study English.",
+        "note": "They replaces 'Tom and Anna'"
+      }
+    ],
+    "questions": [
+      {
+        "id": "g2q1",
+        "type": "multiple-choice",
+        "text": "Peter is my friend. ___ is very funny.",
+        "options": [
+          "He",
+          "She",
+          "It"
+        ],
+        "correctAnswer": "He"
+      },
+      {
+        "id": "g2q2",
+        "type": "multiple-choice",
+        "text": "Sara is a doctor. ___ works at a hospital.",
+        "options": [
+          "He",
+          "She",
+          "They"
+        ],
+        "correctAnswer": "She"
+      },
+      {
+        "id": "g2q3",
+        "type": "multiple-choice",
+        "text": "My cat is small. ___ likes to play.",
+        "options": [
+          "He",
+          "It",
+          "She"
+        ],
+        "correctAnswer": "It"
+      },
+      {
+        "id": "g2q4",
+        "type": "multiple-choice",
+        "text": "My friends and I are at school. ___ are studying.",
+        "options": [
+          "They",
+          "We",
+          "You"
+        ],
+        "correctAnswer": "We"
+      },
+      {
+        "id": "g2q5",
+        "type": "fill-blank",
+        "text": "Ali and Vali are brothers. ___ live together.",
+        "correctAnswer": [
+          "They"
+        ]
+      },
+      {
+        "id": "g2q6",
+        "type": "multiple-choice",
+        "text": "Excuse me, Mr. Smith, are ___ busy?",
+        "options": [
+          "you",
+          "he",
+          "they"
+        ],
+        "correctAnswer": "you"
+      },
+      {
+        "id": "g2q7",
+        "type": "fill-blank",
+        "text": "___ am from Bukhara.",
+        "correctAnswer": [
+          "I"
+        ]
+      },
+      {
+        "id": "g2q8",
+        "type": "multiple-choice",
+        "text": "The children are playing. ___ are happy.",
+        "options": [
+          "It",
+          "They",
+          "He"
+        ],
+        "correctAnswer": "They"
+      },
+      {
+        "id": "g2q9",
+        "type": "fill-blank",
+        "text": "This is my mother. ___ is a kind person.",
+        "correctAnswer": [
+          "She"
+        ]
+      },
+      {
+        "id": "g2q10",
+        "type": "multiple-choice",
+        "text": "My dog and I go for a walk every day. ___ enjoy it.",
+        "options": [
+          "We",
+          "They",
+          "It"
+        ],
+        "correctAnswer": "We"
+      }
+    ]
+  },
+  {
+    "day_number": 3,
+    "title": "Articles: a, an, the",
+    "explanation": "We use 'a' and 'an' before singular, countable nouns when we mention something for the first time, or when it isn't specific.\n\nUse 'a' before a consonant sound: a book, a car, a university.\nUse 'an' before a vowel sound: an apple, an hour, an idea.\n\nWe use 'the' when we talk about a specific thing, something already mentioned, or something unique (like the sun, the moon).\n\nWe usually don't use an article with plural nouns in general statements, or with most proper names.",
+    "examples": [
+      {
+        "sentence": "I have a dog.",
+        "note": "a + consonant sound"
+      },
+      {
+        "sentence": "She is an engineer.",
+        "note": "an + vowel sound"
+      },
+      {
+        "sentence": "I saw a man. The man was tall.",
+        "note": "second mention uses 'the'"
+      },
+      {
+        "sentence": "The sun rises in the east.",
+        "note": "unique thing: the sun"
+      },
+      {
+        "sentence": "Cats are independent animals.",
+        "note": "no article for general plural statement"
+      }
+    ],
+    "questions": [
+      {
+        "id": "g3q1",
+        "type": "multiple-choice",
+        "text": "I bought ___ apple at the market.",
+        "options": [
+          "a",
+          "an",
+          "the"
+        ],
+        "correctAnswer": "an"
+      },
+      {
+        "id": "g3q2",
+        "type": "multiple-choice",
+        "text": "She is ___ teacher.",
+        "options": [
+          "a",
+          "an",
+          "the"
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "id": "g3q3",
+        "type": "multiple-choice",
+        "text": "Look at ___ moon tonight!",
+        "options": [
+          "a",
+          "an",
+          "the"
+        ],
+        "correctAnswer": "the"
+      },
+      {
+        "id": "g3q4",
+        "type": "multiple-choice",
+        "text": "I need ___ hour to finish this.",
+        "options": [
+          "a",
+          "an",
+          "the"
+        ],
+        "correctAnswer": "an"
+      },
+      {
+        "id": "g3q5",
+        "type": "fill-blank",
+        "text": "There is ___ cat in the garden.",
+        "correctAnswer": [
+          "a"
+        ]
+      },
+      {
+        "id": "g3q6",
+        "type": "multiple-choice",
+        "text": "He works at ___ university near here.",
+        "options": [
+          "a",
+          "an",
+          "the"
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "id": "g3q7",
+        "type": "fill-blank",
+        "text": "Can you close ___ door, please?",
+        "correctAnswer": [
+          "the"
+        ]
+      },
+      {
+        "id": "g3q8",
+        "type": "multiple-choice",
+        "text": "___ elephants are very intelligent animals.",
+        "options": [
+          "A",
+          "An",
+          "(no article)"
+        ],
+        "correctAnswer": "(no article)"
+      },
+      {
+        "id": "g3q9",
+        "type": "fill-blank",
+        "text": "I want to buy ___ orange and a banana.",
+        "correctAnswer": [
+          "an"
+        ]
+      },
+      {
+        "id": "g3q10",
+        "type": "multiple-choice",
+        "text": "We visited ___ museum yesterday. ___ museum was huge.",
+        "options": [
+          "a / The",
+          "an / A",
+          "the / A"
+        ],
+        "correctAnswer": "a / The"
+      }
+    ]
+  },
+  {
+    "day_number": 4,
+    "title": "Singular and Plural Nouns",
+    "explanation": "Most English nouns become plural by adding -s: book -> books, car -> cars.\n\nIf a noun ends in -s, -x, -ch, -sh, add -es: bus -> buses, box -> boxes, watch -> watches.\n\nIf a noun ends in a consonant + y, change y to i and add -es: city -> cities, baby -> babies.\n\nSome nouns are irregular and don't follow these rules: man -> men, woman -> women, child -> children, person -> people, foot -> feet, tooth -> teeth.\n\nSome nouns have no plural form at all, like water, information, advice.",
+    "examples": [
+      {
+        "sentence": "I have two books.",
+        "note": "book -> books"
+      },
+      {
+        "sentence": "There are five buses outside.",
+        "note": "bus -> buses"
+      },
+      {
+        "sentence": "She visited three cities.",
+        "note": "city -> cities"
+      },
+      {
+        "sentence": "There are many children in the park.",
+        "note": "child -> children (irregular)"
+      },
+      {
+        "sentence": "Many people like this song.",
+        "note": "person -> people (irregular)"
+      }
+    ],
+    "questions": [
+      {
+        "id": "g4q1",
+        "type": "fill-blank",
+        "text": "I have two ___ (book).",
+        "correctAnswer": [
+          "books"
+        ]
+      },
+      {
+        "id": "g4q2",
+        "type": "fill-blank",
+        "text": "There are three ___ (box) on the table.",
+        "correctAnswer": [
+          "boxes"
+        ]
+      },
+      {
+        "id": "g4q3",
+        "type": "fill-blank",
+        "text": "She has many ___ (friend) at school.",
+        "correctAnswer": [
+          "friends"
+        ]
+      },
+      {
+        "id": "g4q4",
+        "type": "multiple-choice",
+        "text": "What is the plural of 'child'?",
+        "options": [
+          "childs",
+          "children",
+          "childes"
+        ],
+        "correctAnswer": "children"
+      },
+      {
+        "id": "g4q5",
+        "type": "multiple-choice",
+        "text": "What is the plural of 'city'?",
+        "options": [
+          "citys",
+          "cities",
+          "cityes"
+        ],
+        "correctAnswer": "cities"
+      },
+      {
+        "id": "g4q6",
+        "type": "fill-blank",
+        "text": "There are many ___ (woman) in this photo.",
+        "correctAnswer": [
+          "women"
+        ]
+      },
+      {
+        "id": "g4q7",
+        "type": "multiple-choice",
+        "text": "What is the plural of 'foot'?",
+        "options": [
+          "foots",
+          "feets",
+          "feet"
+        ],
+        "correctAnswer": "feet"
+      },
+      {
+        "id": "g4q8",
+        "type": "fill-blank",
+        "text": "We saw five ___ (man) at the market.",
+        "correctAnswer": [
+          "men"
+        ]
+      },
+      {
+        "id": "g4q9",
+        "type": "multiple-choice",
+        "text": "Which sentence is correct?",
+        "options": [
+          "I drink two waters.",
+          "I need some information.",
+          "I have two informations."
+        ],
+        "correctAnswer": "I need some information."
+      },
+      {
+        "id": "g4q10",
+        "type": "fill-blank",
+        "text": "There are ten ___ (watch) in the shop.",
+        "correctAnswer": [
+          "watches"
+        ]
+      }
+    ]
+  },
+  {
+    "day_number": 5,
+    "title": "This, That, These, Those",
+    "explanation": "We use 'this' and 'that' to point to one thing (singular). We use 'these' and 'those' to point to more than one thing (plural).\n\n'This' and 'these' refer to things that are near us.\n'That' and 'those' refer to things that are far from us.\n\nWe can use these words before a noun (this book) or alone, replacing the noun (This is my book).",
+    "examples": [
+      {
+        "sentence": "This is my phone.",
+        "note": "near, singular"
+      },
+      {
+        "sentence": "That is your house, over there.",
+        "note": "far, singular"
+      },
+      {
+        "sentence": "These are my shoes.",
+        "note": "near, plural"
+      },
+      {
+        "sentence": "Those are beautiful mountains.",
+        "note": "far, plural"
+      },
+      {
+        "sentence": "I like this book, not that one.",
+        "note": "comparing near and far"
+      }
+    ],
+    "questions": [
+      {
+        "id": "g5q1",
+        "type": "multiple-choice",
+        "text": "___ is my pen. (pointing to something near you, one item)",
+        "options": [
+          "This",
+          "These",
+          "Those"
+        ],
+        "correctAnswer": "This"
+      },
+      {
+        "id": "g5q2",
+        "type": "multiple-choice",
+        "text": "___ are my keys. (near, plural)",
+        "options": [
+          "This",
+          "That",
+          "These"
+        ],
+        "correctAnswer": "These"
+      },
+      {
+        "id": "g5q3",
+        "type": "multiple-choice",
+        "text": "Look at ___ mountains over there. (far, plural)",
+        "options": [
+          "this",
+          "those",
+          "that"
+        ],
+        "correctAnswer": "those"
+      },
+      {
+        "id": "g5q4",
+        "type": "multiple-choice",
+        "text": "___ car, over there, is very old. (far, singular)",
+        "options": [
+          "This",
+          "These",
+          "That"
+        ],
+        "correctAnswer": "That"
+      },
+      {
+        "id": "g5q5",
+        "type": "fill-blank",
+        "text": "___ is my brother. (near, singular)",
+        "correctAnswer": [
+          "This"
+        ]
+      },
+      {
+        "id": "g5q6",
+        "type": "fill-blank",
+        "text": "___ are delicious apples! (near, plural)",
+        "correctAnswer": [
+          "These"
+        ]
+      },
+      {
+        "id": "g5q7",
+        "type": "multiple-choice",
+        "text": "Can I have one of ___ apples? (far, plural)",
+        "options": [
+          "this",
+          "that",
+          "those"
+        ],
+        "correctAnswer": "those"
+      },
+      {
+        "id": "g5q8",
+        "type": "fill-blank",
+        "text": "I don't like ___ color. (far, singular)",
+        "correctAnswer": [
+          "that"
+        ]
+      },
+      {
+        "id": "g5q9",
+        "type": "multiple-choice",
+        "text": "___ is a difficult question.",
+        "options": [
+          "This",
+          "These",
+          "Those"
+        ],
+        "correctAnswer": "This"
+      },
+      {
+        "id": "g5q10",
+        "type": "fill-blank",
+        "text": "Whose are ___ books on the table near you?",
+        "correctAnswer": [
+          "these"
+        ]
+      }
+    ]
+  }
+]
