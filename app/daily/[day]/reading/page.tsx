@@ -132,7 +132,7 @@ export default function ReadingPage({ params }: { params: Promise<{ day: string 
         <div ref={passageRef} className="relative mb-5 rounded-lg border border-[var(--color-line)] bg-white p-5"
           onMouseUp={handleTextMouseUp} onClick={(e) => e.stopPropagation()}>
           <p className="passage-text select-text text-[15px] leading-relaxed text-neutral-800">
-            {renderPassage(task.reading_text)}
+            {renderPassage(task.reading_text ?? "")}
           </p>
           {popup && (
             <div className="absolute z-20 -translate-x-1/2 -translate-y-full" style={{ left: popup.x, top: popup.y }}
