@@ -115,16 +115,27 @@ export default function TypingTestPage() {
     if (status === "done") return;
 
     if (value.length > typedText.length) {
-      const ctx = new (window.AudioContext || (window as any).webkitAudioContext)();
-      const o = ctx.createOscillator();
-      const g = ctx.createGain();
-      o.connect(g);
-      g.connect(ctx.destination);
-      o.frequency.value = 600;
-      g.gain.setValueAtTime(0.08, ctx.currentTime);
-      g.gain.exponentialRampToValueAtTime(0.001, ctx.currentTime + 0.04);
-      o.start(ctx.currentTime);
-      o.stop(ctx.currentTime + 0.04);
+      try {
+        const ctx = new (window.AudioContext || (window as any).webkitAudioContext)();
+        const buf = ctx.createBuffer(1, ctx.sampleRate * 0.03, ctx.sampleRate);
+        const data = buf.getChannelData(0);
+        for (let i = 0; i < data.length; i++) {
+          data[i] = (Math.random() * 2 - 1) * Math.pow(1 - i / data.length, 8);
+        }
+        const src = ctx.createBufferSource();
+        const g = ctx.createGain();
+        const filter = ctx.createBiquadFilter();
+        filter.type = 'bandpass';
+        filter.frequency.value = 3000;
+        filter.Q.value = 0.5;
+        src.buffer = buf;
+        g.gain.setValueAtTime(0.4, ctx.currentTime);
+        g.gain.exponentialRampToValueAtTime(0.001, ctx.currentTime + 0.03);
+        src.connect(filter);
+        filter.connect(g);
+        g.connect(ctx.destination);
+        src.start();
+      } catch(e) {}
     }
     setTypedText(value);
 
