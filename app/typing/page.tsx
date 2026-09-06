@@ -115,10 +115,16 @@ export default function TypingTestPage() {
     if (status === "done") return;
 
     if (value.length > typedText.length) {
-      const audio = new Audio("/key-click.mp3");
-      audio.volume = 0.2;
-      audio.playbackRate = 1.2;
-      audio.play().catch(() => {});
+      const ctx = new (window.AudioContext || (window as any).webkitAudioContext)();
+      const o = ctx.createOscillator();
+      const g = ctx.createGain();
+      o.connect(g);
+      g.connect(ctx.destination);
+      o.frequency.value = 600;
+      g.gain.setValueAtTime(0.08, ctx.currentTime);
+      g.gain.exponentialRampToValueAtTime(0.001, ctx.currentTime + 0.04);
+      o.start(ctx.currentTime);
+      o.stop(ctx.currentTime + 0.04);
     }
     setTypedText(value);
 
