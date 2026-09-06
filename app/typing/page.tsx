@@ -114,6 +114,12 @@ export default function TypingTestPage() {
     }
     if (status === "done") return;
 
+    if (value.length > typedText.length) {
+      const audio = new Audio("/key-click.mp3");
+      audio.volume = 0.2;
+      audio.playbackRate = 1.2;
+      audio.play().catch(() => {});
+    }
     setTypedText(value);
 
     // To'g'ri/noto'g'ri belgilarni hisoblash
