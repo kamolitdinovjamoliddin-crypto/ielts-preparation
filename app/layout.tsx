@@ -2,9 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "IELTS CD Mock | Onlayn IELTS imtihon simulyatori",
-  description:
-    "IELTS Computer-Delivered formatiga mos onlayn mock imtihon platformasi. Listening, Reading, Writing, Speaking - AI baholash bilan.",
+  title: "IELTS Practice UZ",
+  description: "IELTS preparation platform for Uzbekistan. Listening, Reading, Writing, Speaking - AI baholash bilan.",
 };
 
 export default function RootLayout({
@@ -14,6 +13,14 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="uz" className="h-full antialiased">
+      <head>
+        <link rel="manifest" href="/manifest.json" />
+        <meta name="theme-color" content="#6C63FF" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+        <meta name="apple-mobile-web-app-title" content="IELTS Prep" />
+        <link rel="apple-touch-icon" href="/icon-192.png" />
+      </head>
       <body className="min-h-full flex flex-col">{children}</body>
     </html>
   );
