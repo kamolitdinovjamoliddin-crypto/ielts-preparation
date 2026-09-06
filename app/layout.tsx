@@ -19,7 +19,9 @@ export default function RootLayout({
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="default" />
         <meta name="apple-mobile-web-app-title" content="IELTS Prep" />
-        <link rel="apple-touch-icon" href="/icon-192.png" />
+        <link rel="apple-touch-icon" sizes="180x180" href="/icon-192.png" />
+        <link rel="apple-touch-icon" sizes="152x152" href="/icon-192.png" />
+        <link rel="apple-touch-icon" sizes="120x120" href="/icon-192.png" />
       </head>
       <body className="min-h-full flex flex-col">{children}</body>
     </html>
